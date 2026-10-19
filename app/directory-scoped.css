@@ -12,3 +12,6 @@
 .atlas-directory .verified-filters label{display:block;font-size:9px;color:var(--muted);flex:1;min-width:140px}
 .atlas-directory .verified-filters select{display:block;width:100%;border:1px solid var(--line);border-radius:5px;background:var(--bg);color:var(--ink);font-size:11px;padding:9px;margin-top:6px}
 .atlas-directory .verified-filters>span{font-size:8px;color:var(--muted);display:block;width:100%;line-height:1.6}
+.atlas-directory .card-links{display:flex;gap:14px;padding:0 26px 22px;font-size:11px}
+.atlas-directory .card-links a{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
+.atlas-directory .card-links a:hover{color:var(--accent)}
