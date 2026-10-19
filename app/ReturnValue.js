@@ -1,0 +1,4 @@
+'use client';
+import{useEffect,useState}from'react';
+import{clean}from'../lib/display';
+export default function ReturnValue({value,animate=false}){const text=clean(value),[display,setDisplay]=useState(text);useEffect(()=>{if(!animate||!/^[-+]?\d+(?:\.\d+)?%$/.test(text)||window.matchMedia('(prefers-reduced-motion: reduce)').matches){setDisplay(text);return}let frame,start;const target=parseFloat(text),digits=(text.match(/\.(\d+)/)?.[1]||'').length;const tick=t=>{start??=t;const f=Math.min((t-start)/450,1);setDisplay((target*(1-Math.pow(1-f,3))).toFixed(digits)+'%');if(f<1)frame=requestAnimationFrame(tick);else setDisplay(text)};frame=requestAnimationFrame(tick);return()=>cancelAnimationFrame(frame)},[text,animate]);return <span aria-label={text}><span aria-hidden={animate}>{display}</span></span>}
