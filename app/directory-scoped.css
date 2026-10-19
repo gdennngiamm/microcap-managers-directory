@@ -8,3 +8,7 @@
 
 @font-face{font-family:Google Sans;src:url('/google-sans-medium.ttf') format('truetype');font-weight:500;font-display:swap}.atlas-directory .loginpage .google-signin,.atlas-directory .auth-card .google-signin,.atlas-directory .google-signin{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:40px;padding:9px 12px;border:1px solid #747775;border-radius:4px;background:#fff;color:#1f1f1f;font-family:Google Sans,Arial,sans-serif;font-size:14px;font-weight:500;line-height:20px;text-decoration:none;letter-spacing:.1px;transform:none}.atlas-directory .google-signin img{display:block;flex-shrink:0;width:20px;height:20px}.atlas-directory .google-signin:hover,.atlas-directory .loginpage .google-signin:hover,.atlas-directory .auth-card .google-signin:hover{background:#f8faff;color:#1f1f1f;transform:none}.atlas-directory .google-signin:disabled{cursor:wait;opacity:.65}
 .atlas-directory .portrait.logo{object-fit:contain;background:#fff;padding:4px;border:1px solid #e8e8e8;filter:none}
+.atlas-directory .verified-filters{display:flex;align-items:flex-end;gap:10px;flex-wrap:wrap;margin:16px 0}
+.atlas-directory .verified-filters label{display:block;font-size:9px;color:var(--muted);flex:1;min-width:140px}
+.atlas-directory .verified-filters select{display:block;width:100%;border:1px solid var(--line);border-radius:5px;background:var(--bg);color:var(--ink);font-size:11px;padding:9px;margin-top:6px}
+.atlas-directory .verified-filters>span{font-size:8px;color:var(--muted);display:block;width:100%;line-height:1.6}
