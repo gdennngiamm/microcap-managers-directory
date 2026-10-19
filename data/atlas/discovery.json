@@ -1,5 +1,159 @@
 [
   {
+    "id": "aberdeen-uk-smaller-companies-growth-trust-lon-ausc",
+    "manager": "Aberdeen UK Smaller Companies Growth Trust (LON:AUSC)",
+    "fund": "Investment trust (closed-end)",
+    "country": "UK",
+    "style": "UK smaller companies growth; JUGI combination announced 18/9/2026 (heads of terms agreed)",
+    "capScope": "UK small/micro-cap (vs Deutsche Numis Smaller Cos + AIM ex IC)",
+    "website": "https://www.aberdeeninvestments.com/en-gb/ausc",
+    "lettersUrl": "https://www.aberdeeninvestments.com/docs?editionid=ac2d1f5d-3c5f-4bca-842c-a42f81820eed",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "acorn-capital-acorn-capital-investment-fund-asx-acq",
+    "manager": "Acorn Capital (Acorn Capital Investment Fund, ASX:ACQ)",
+    "fund": "Listed investment company (LIC)",
+    "country": "Australia",
+    "style": "Microcap/smallcap specialist; early-stage and emerging companies, unlisted + listed mix",
+    "capScope": "AU micro/small-cap (vs S&P/ASX Small Ordinaries Accum Index)",
+    "website": "https://www.acorncapital.com.au/",
+    "lettersUrl": "https://www.acorncapital.com.au/wp-content/uploads/2026/10/NTA-September-2026.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "acuitas-investments-acuitas-microcap-composite-us-microcap-fund-afmcx",
+    "manager": "Acuitas Investments (Acuitas Microcap Composite / US Microcap Fund AFMCX)",
+    "fund": "Institutional multi-manager + mutual fund",
+    "country": "US",
+    "style": "STRICT MICROCAP: multi-manager microcap strategy, own definition = Russell Microcap Index range; GIPS-verified composite",
+    "capScope": "US micro-cap (Russell Microcap Index)",
+    "website": "https://acuitasinvestments.com/",
+    "lettersUrl": "https://acuitasinvestments.com/wp-content/uploads/2026/04/GIPS-Report_Micro.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "athelney-trust-plc-lon-aty",
+    "manager": "Athelney Trust plc (LON:ATY)",
+    "fund": "Investment trust (LSE-listed)",
+    "country": "UK",
+    "style": "UK smaller companies; dividend raised every year since 2004; zero mgmt fee, 10% perf fee above cash (wef 1 Jan 2026)",
+    "capScope": "UK micro/small-cap (AIM ~29%, FTSE Mid250 ~28%)",
+    "website": "https://www.athelneytrust.co.uk/",
+    "lettersUrl": "https://www.athelneytrust.co.uk/wp-content/uploads/2026/10/ATY-Factsheet-September-2026.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "blackrock-blackrock-smaller-companies-trust-plc-lon-brsc",
+    "manager": "BlackRock (BlackRock Smaller Companies Trust plc, LON:BRSC)",
+    "fund": "Investment trust (LSE-listed)",
+    "country": "UK",
+    "style": "UK smaller companies; benchmark Deutsche Numis Smaller Companies + AIM (ex IC)",
+    "capScope": "UK small/micro-cap",
+    "website": "https://www.blackrock.com/uk/solutions/investment-trusts/our-range/blackrock-smaller-companies-investment-trust/trust-information",
+    "lettersUrl": "https://www.blackrock.com/uk/literature/fact-sheet/blackrock-smaller-companies-trust-plc-factsheet.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "bridgeway-ultra-small-company-market-busm-etf-formerly-brsix-mutual-fund",
+    "manager": "Bridgeway Ultra-Small Company Market (BUSM ETF; formerly BRSIX mutual fund)",
+    "fund": "ETF (mutual fund converted to ETF 7/24/2026)",
+    "country": "US",
+    "style": "Passive-leaning ultra-small (CRSP 10 size segment), tax-managed",
+    "capScope": "Micro-cap (CRSP decile 10)",
+    "website": "https://bridgewayetfs.com/busm/",
+    "lettersUrl": "https://bridgewayetfs.com/busm/",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "buffalo-funds-buffalo-small-cap-growth-fund-bufsx-buisx",
+    "manager": "Buffalo Funds (Buffalo Small Cap Growth Fund, BUFSX/BUISX)",
+    "fund": "Open-end mutual fund (US 40 Act)",
+    "country": "US",
+    "style": "Small-cap growth, 65-85 holdings, secular growth trends; managers in place since inception (1998) / 2023",
+    "capScope": "US small-cap (Russell 2000 Growth benchmark; some micro-cap exposure <1.5% mkt cap)",
+    "website": "https://buffalofunds.com/small-cap-growth-fund/",
+    "lettersUrl": "https://buffalofunds.com/wp-content/uploads/pdf/commentaries/BuffaloFunds-Commentary-SmallCapGrowthFund.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "cadence-capital-asx-cdm",
+    "manager": "Cadence Capital (ASX:CDM)",
+    "fund": "Listed investment company",
+    "country": "Australia",
+    "style": "Long/short, fundamental, holds cash",
+    "capScope": "Small/mid-cap",
+    "website": "https://www.cadencecapital.com.au/",
+    "lettersUrl": "https://www.cadencecapital.com.au/performance/",
+    "socials": [],
+    "dateAdded": "2026-10-18",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "castlefield-investment-partners-tm-castlefield-thoughtful-uk-smaller-companies-fund",
+    "manager": "Castlefield Investment Partners (TM Castlefield Thoughtful UK Smaller Companies Fund)",
+    "fund": "Open-end fund (UK OEIC)",
+    "country": "UK",
+    "style": "Values-based UK smaller companies + AIM; Thoughtful Investor approach, 30-50 holdings",
+    "capScope": "UK small/micro-cap (IA UK Smaller Companies sector)",
+    "website": "https://www.castlefield.com/",
+    "lettersUrl": "https://www.castlefield.com/media/5rxc22lh/tm-castlefield-thoughtful-uk-smaller-companies-fund-factsheet.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "chelverton-asset-management-chelverton-uk-dividend-trust-plc-lon-sdv",
+    "manager": "Chelverton Asset Management (Chelverton UK Dividend Trust plc, LON:SDV)",
+    "fund": "Investment trust (LSE-listed)",
+    "country": "UK",
+    "style": "High income + capital growth from UK mid & smaller companies; core dividend yield 6.5%",
+    "capScope": "UK small/micro-cap (mid & smaller companies mandate)",
+    "website": "https://www.chelvertonukdividendtrustplc.com/",
+    "lettersUrl": "https://www.chelvertonukdividendtrustplc.com/investor-documents/factsheets/",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "collins-st-asset-management-collins-st-value-fund",
+    "manager": "Collins St Asset Management (Collins St Value Fund)",
+    "fund": "Australian managed fund",
+    "country": "Australia",
+    "style": "Concentrated deep value, small caps",
+    "capScope": "ASX small/micro-cap value",
+    "website": "https://www.csvf.com.au/",
+    "lettersUrl": "https://www.csvf.com.au/wp-content/uploads/2026/01/Collins-St-Asset-Management-December-2025-Quarterly-Report.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
     "id": "conestoga-capital-advisors",
     "manager": "Conestoga Capital Advisors",
     "fund": "Small Cap Growth strategy",
@@ -10,17 +164,64 @@
     "lettersUrl": "https://conestogacapital.com/2026-q3-commentary/",
     "socials": [],
     "dateAdded": "2026-10-18",
-    "returns": {
-      "period": "Q3 2026",
-      "value": "-11.55%",
-      "basis": "net (CCALX; vs R2000 Growth -9.39%)",
-      "currency": "USD",
-      "source": "https://conestogacapital.com/2026-q3-commentary/"
-    },
-    "returnsStatus": "sourced",
-    "logoUrl": "https://conestogacapital.com/wp-content/uploads/2024/03/white-logo-conestoga.svg",
-    "imageSource": "https://conestogacapital.com/",
-    "imageStatus": "pending"
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "confluence-investment-management-small-cap-value",
+    "manager": "Confluence Investment Management (Small Cap Value)",
+    "fund": "US SMA composite strategy",
+    "country": "US",
+    "style": "High-quality profitable value, strong cash flows and balance sheets",
+    "capScope": "US small-cap value (R2000 Value universe)",
+    "website": "https://www.confluenceinvestment.com/products-performance/equity-strategies/",
+    "lettersUrl": "https://www.confluenceinvestment.com/wp-content/uploads/Bundled-SCV_1Q_2026_Quarterly_Report.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "cyan-investment-management-cyan-c3g-fund",
+    "manager": "Cyan Investment Management (Cyan C3G Fund)",
+    "fund": "Australian managed fund",
+    "country": "Australia",
+    "style": "Microcap growth (profitable smaller industrials)",
+    "capScope": "ASX micro/small-cap ex-resources tilt",
+    "website": "https://www.cyanim.com.au/",
+    "lettersUrl": "https://www.cyanim.com.au/2026/09/10/cyan-newsletter-31-august-2026/",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "driehaus-micro-cap-growth-fund-dmcrx",
+    "manager": "Driehaus Micro Cap Growth Fund (DMCRX)",
+    "fund": "Mutual fund",
+    "country": "US",
+    "style": "Growth equity, momentum-oriented",
+    "capScope": "Micro-cap",
+    "website": "https://www.driehaus.com/funds/driehaus-micro-cap-growth-fund",
+    "lettersUrl": "https://www.driehaus.com/system/uploads/fae/file/asset/9/DMCRX-factsheet-6-30-26.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "ellerston-capital-australian-micro-cap-fund",
+    "manager": "Ellerston Capital (Australian Micro Cap Fund)",
+    "fund": "Australian managed fund",
+    "country": "Australia",
+    "style": "Microcap growth/quality",
+    "capScope": "ASX microcap",
+    "website": "https://ellerstoncapital.com/funds/australian-micro-cap-fund/",
+    "lettersUrl": "https://ellerstoncapital.com/wp-content/uploads/2026/07/EMCF-2026-06.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
   },
   {
     "id": "ewing-morris-and-co-investment-partners",
@@ -34,10 +235,7 @@
     "socials": [],
     "dateAdded": "2026-10-17",
     "returns": null,
-    "returnsStatus": "pending",
-    "logoUrl": "https://ewingmorris.com/wp-content/uploads/2022/09/Ewing-Morris_Horizontal_PMS-031.svg",
-    "imageSource": "https://www.ewingmorris.com/",
-    "imageStatus": "pending"
+    "returnsStatus": "pending"
   },
   {
     "id": "forager-funds",
@@ -50,17 +248,22 @@
     "lettersUrl": "https://www.foragerfunds.com/reports",
     "socials": [],
     "dateAdded": "2026-10-18",
-    "returns": {
-      "period": "Q to 9/30/26 (3M)",
-      "value": "1.60%",
-      "basis": "net (Australian Shares Fund; 1yr -21.3%)",
-      "currency": "AUD (in AUD terms; USD-terms 2.79% derived: ECB ref FX 0.68871 6/30 -> 0.69675 9/30/26)",
-      "source": "https://www.foragerfunds.com/reports"
-    },
-    "returnsStatus": "sourced",
-    "logoUrl": "https://cdn.prod.website-files.com/663446fb1731a2810f8d020f/664d784be6f014d2e263c071_logo%20(2).svg",
-    "imageSource": "https://www.foragerfunds.com/",
-    "imageStatus": "pending"
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "granahan-investment-management-small-cap-select",
+    "manager": "Granahan Investment Management (Small Cap Select)",
+    "fund": "SMA composite strategy",
+    "country": "US",
+    "style": "Small cap growth, LifeCycle framework",
+    "capScope": "Small-cap (R2000 Growth universe)",
+    "website": "https://www.granahan.com/",
+    "lettersUrl": "https://www.granahan.com/wp-content/uploads/2026/07/FINAL_2026-Q2-GIM-SC-Select.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
   },
   {
     "id": "heartland-advisors",
@@ -73,17 +276,22 @@
     "lettersUrl": "https://www.heartlandadvisors.com/Quarterly-Materials",
     "socials": [],
     "dateAdded": "2026-10-18",
-    "returns": {
-      "period": "Q3 2026",
-      "value": "-6.96%",
-      "basis": "net (Value Fund; vs R2000 Value -4.91%)",
-      "currency": "USD",
-      "source": "https://www.heartlandadvisors.com/Quarterly-Materials"
-    },
-    "returnsStatus": "sourced",
-    "imageUrl": "https://www.heartlandadvisors.com/media/Insights/Wheres-Will-Graphics/Web-Graphic.png",
-    "imageSource": "https://www.heartlandadvisors.com/",
-    "imageStatus": "pending"
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "katana-capital-asx-kat",
+    "manager": "Katana Capital (ASX:KAT)",
+    "fund": "Australian listed investment company",
+    "country": "Australia",
+    "style": "Australian equities, all-cap with small/micro tilt, high cash flexibility",
+    "capScope": "ASX small/micro-cap",
+    "website": "https://katanaasset.com/",
+    "lettersUrl": "https://katanaasset.com/wp-content/uploads/2026/09/20260831-KAT-KT01-Monthly-NTA-Final.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
   },
   {
     "id": "kennedy-capital-management",
@@ -98,17 +306,36 @@
       "https://www.linkedin.com/company/kennedy-capital-management"
     ],
     "dateAdded": "2026-10-17",
-    "returns": {
-      "period": "Q2 2026",
-      "value": "27.97%",
-      "basis": "net (gross 28.24%)",
-      "currency": "USD",
-      "source": "https://www.kennedycapital.com/category/micro-cap-commentaries/"
-    },
-    "returnsStatus": "sourced",
-    "logoUrl": "https://www.kennedycapital.com/media/logo.png",
-    "imageSource": "https://www.kennedycapital.com/",
-    "imageStatus": "pending"
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "kernow-asset-management-kernow-strategy-cg-kernow-equity-navigator",
+    "manager": "Kernow Asset Management (Kernow strategy / CG Kernow Equity Navigator)",
+    "fund": "Investment manager (UK smaller companies activist)",
+    "country": "UK",
+    "style": "Concentrated UK smaller companies quality-value activist; record blends managed accounts + fund",
+    "capScope": "UK small/micro-cap (blended - mandate is smaller companies, not explicitly microcap)",
+    "website": "https://kernowam.com/",
+    "lettersUrl": "https://kernowam.com/performance.html",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "marlborough-fund-managers-ifsl-marlborough-uk-micro-cap-growth-fund",
+    "manager": "Marlborough Fund Managers (IFSL Marlborough UK Micro-Cap Growth Fund)",
+    "fund": "UK UCITS fund",
+    "country": "UK",
+    "style": "UK micro-cap growth",
+    "capScope": "UK micro-cap (FTSE AIM/small companies)",
+    "website": "https://www.marlboroughgroup.com/funds/individual/marlborough-uk-micro-cap-growth",
+    "lettersUrl": "https://mghlmarketing.blob.core.windows.net/factsheets/IFSL%20Marlborough%20UK%20Micro-Cap%20Growth%20Class%20P.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
   },
   {
     "id": "mcintyre-partnerships",
@@ -124,17 +351,22 @@
       "https://linkedin.com/in/chris-mcintyre-2556365"
     ],
     "dateAdded": "2026-10-16",
-    "returns": {
-      "period": "H1 2025",
-      "value": "-19%",
-      "basis": "net (approx., own Q2 2025 letter; latest own-source letter)",
-      "currency": "USD",
-      "source": "https://www.mcintyrepartnerships.com/letters"
-    },
-    "returnsStatus": "sourced",
-    "logoUrl": "https://images.squarespace-cdn.com/content/v1/6339dbcc7dc8ac471e3e0dea/d059ea64-765a-4173-838e-dc4a01c2f842/logo.png?format=1500w",
-    "imageSource": "https://www.mcintyrepartnerships.com/",
-    "imageStatus": "pending"
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "merewether-capital-inception-fund",
+    "manager": "Merewether Capital (Inception Fund)",
+    "fund": "Unregistered wholesale unit trust (A$50k min)",
+    "country": "Australia",
+    "style": "Concentrated (10-25) profitable ASX ex-100 small & micro-caps; absolute return with 6% p.a. hurdle",
+    "capScope": "Micro/small-cap (ASX ex-100)",
+    "website": "https://www.merewethercapital.com.au/",
+    "lettersUrl": "https://www.merewethercapital.com.au/fund-updates/",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
   },
   {
     "id": "microequities-asset-management",
@@ -149,17 +381,8 @@
       "https://linkedin.com/company/microequities-pty-ltd"
     ],
     "dateAdded": "2026-10-16",
-    "returns": {
-      "period": "Sep 2026",
-      "value": "-9.04%",
-      "basis": "net",
-      "currency": "AUD (in AUD terms; USD-terms -11.51% derived: ECB ref FX 0.7162 8/31 -> 0.69675 9/30/26)",
-      "source": "https://microequities.com.au/deep-value-microcap-fund-letter-september-2026/"
-    },
-    "returnsStatus": "sourced",
-    "logoUrl": "https://microequities.com.au/wp-content/uploads/2023/02/MAM-logo-1.webp",
-    "imageSource": "https://microequities.com.au/",
-    "imageStatus": "pending"
+    "returns": null,
+    "returnsStatus": "pending"
   },
   {
     "id": "naos-asset-management",
@@ -172,17 +395,36 @@
     "lettersUrl": "https://www.naos.com.au/nsc-monthly-report",
     "socials": [],
     "dateAdded": "2026-10-18",
-    "returns": {
-      "period": "Sep 2026",
-      "value": "-4.72%",
-      "basis": "as reported (NSC portfolio return)",
-      "currency": "AUD (in AUD terms; USD-terms -7.31% derived: ECB ref FX 0.7162 8/31 -> 0.69675 9/30/26)",
-      "source": "https://www.naos.com.au/nsc-monthly-report"
-    },
-    "returnsStatus": "sourced",
-    "logoUrl": "https://cdn.prod.website-files.com/5b3d7f5582ecae7f1e026ce2/60be9de099c2716fb2efb4a7_naos.svg",
-    "imageSource": "https://www.naos.com.au/",
-    "imageStatus": "pending"
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "nge-capital-nge-capital-limited-asx-nge",
+    "manager": "NGE Capital (NGE Capital Limited, ASX:NGE)",
+    "fund": "Listed investment company (LIC)",
+    "country": "Australia",
+    "style": "Concentrated high-conviction LIC; ASX + international equities incl. uranium/mining; internally managed",
+    "capScope": "AU micro/small-cap holdings (mandate is concentrated value, not explicitly microcap - blended tag)",
+    "website": "https://ngecapital.com.au/",
+    "lettersUrl": "https://ngecapital.com.au/investor-information/asx-releases/",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "odyssean-investment-trust-lon-oit",
+    "manager": "Odyssean Investment Trust (LON:OIT)",
+    "fund": "UK listed investment trust",
+    "country": "UK",
+    "style": "Concentrated UK smaller companies below FTSE 250, engaged value",
+    "capScope": "UK small/micro-cap equities",
+    "website": "https://www.oitplc.com/",
+    "lettersUrl": "https://www.oitplc.com/wp-content/uploads/2026/10/OIT-Factsheet-September-2026-v2.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
   },
   {
     "id": "paradice-investment-management",
@@ -195,17 +437,22 @@
     "lettersUrl": "https://paradice.com/au/funds/",
     "socials": [],
     "dateAdded": "2026-10-17",
-    "returns": {
-      "period": "1 yr to 8/31/26",
-      "value": "13.11%",
-      "basis": "net (Class A; 3M 2.45%)",
-      "currency": "AUD (in AUD terms; USD-terms 24.14% derived: ECB ref FX 0.65256 8/29/25 -> 0.7162 8/31/26)",
-      "source": "https://paradice.com/au/funds/"
-    },
-    "returnsStatus": "sourced",
-    "logoUrl": "https://paradice.com/wp-content/uploads/Paradice-Investment-Management-Logo_CMYK-White-Gold_RGB_FIN.svg",
-    "imageSource": "https://paradice.com/",
-    "imageStatus": "pending"
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "perpetual-perpetual-pure-microcap-fund",
+    "manager": "Perpetual (Perpetual Pure Microcap Fund)",
+    "fund": "Australian managed fund",
+    "country": "Australia",
+    "style": "Quality Australian microcaps (sub-$300m market cap on acquisition)",
+    "capScope": "ASX microcap",
+    "website": "https://www.perpetual.com.au/funds/perpetual-pure-microcap-fund/",
+    "lettersUrl": "https://www.perpetual.com.au/4a75b0/globalassets/_au-site-media/01-documents/01-asset-management/01-fund-resources/fund-profiles/722_pfp.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
   },
   {
     "id": "punch-and-associates",
@@ -219,10 +466,7 @@
     "socials": [],
     "dateAdded": "2026-10-17",
     "returns": null,
-    "returnsStatus": "pending",
-    "logoUrl": "https://punchinvest.com/wp-content/uploads/2016/06/cropped-PA-Favicon-180x180.png",
-    "imageSource": "https://punchinvest.com/",
-    "imageStatus": "pending"
+    "returnsStatus": "pending"
   },
   {
     "id": "qv-investors",
@@ -237,17 +481,92 @@
       "https://linkedin.com/company/qv-investors-inc-"
     ],
     "dateAdded": "2026-10-16",
-    "returns": {
-      "period": "Q2 2026 (3M to 6/30/26)",
-      "value": "7.90%",
-      "basis": "gross",
-      "currency": "CAD (in CAD terms; USD-terms 5.62% derived: ECB ref FX 0.71764 3/31 -> 0.70247 6/30/26)",
-      "source": "https://qvinvestors.com/insights/"
-    },
-    "returnsStatus": "sourced",
-    "logoUrl": "https://qvinvestors.com/wp-content/uploads/2025/07/QV-Logo-D-1.png",
-    "imageSource": "https://qvinvestors.com/",
-    "imageStatus": "pending"
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "rice-hall-james-and-associates-micro-cap-portfolio-rhjsx",
+    "manager": "Rice Hall James & Associates (Micro Cap Portfolio, RHJSX)",
+    "fund": "Open-end mutual fund (US 40 Act)",
+    "country": "US",
+    "style": "STRICT MICROCAP: at least 80% net assets in Russell Microcap Index range at purchase; since 1994",
+    "capScope": "US micro-cap (Russell Microcap Index)",
+    "website": "https://www.ricehalljames.com/strategies/micro-cap-equity/",
+    "lettersUrl": "https://rhjfunds.com/wp-content/uploads/2025/10/RHJ-Micro-Cap-Equity-Fund-Factsheet-3Q25.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "rivemont-investments-rivemont-microcap-fund",
+    "manager": "Rivemont Investments (Rivemont MicroCap Fund)",
+    "fund": "Canadian mutual fund trust",
+    "country": "Canada",
+    "style": "Concentrated (up to 25) quality microcap growth",
+    "capScope": "North American micro/small-cap",
+    "website": "https://rivemont.ca/",
+    "lettersUrl": "https://rivemont.ca/wp-content/uploads/2026/04/Rivemont-MicroCap-Fund-2026-03.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "rockwood-strategic-plc-lon-rkw",
+    "manager": "Rockwood Strategic plc (LON:RKW)",
+    "fund": "UK listed investment trust",
+    "country": "UK",
+    "style": "Engaged value, 5-8 core positions in UK small companies",
+    "capScope": "UK small/micro-cap equities",
+    "website": "https://www.rockwoodstrategic.co.uk/",
+    "lettersUrl": "https://dtbjgrx62nat1.cloudfront.net/app/uploads/2026/07/Factsheet-Q2-2026-Final.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "ryder-capital-ryder-capital-limited-asx-ryd",
+    "manager": "Ryder Capital (Ryder Capital Limited, ASX:RYD)",
+    "fund": "Listed investment company (LIC)",
+    "country": "Australia",
+    "style": "Concentrated AU micro/small-cap value; core long-term holdings; hurdle RBA cash + 4.25%",
+    "capScope": "AU micro/small-cap",
+    "website": "https://www.rydercapital.com.au/our-funds/ryd",
+    "lettersUrl": "https://www.rydercapital.com.au/our-funds/ryd/monthly-nta",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "saber-capital-management",
+    "manager": "Saber Capital Management",
+    "fund": "Partnership funds (Saber Capital Partners LP / SCP II)",
+    "country": "US",
+    "style": "Value, quality compounders, long-term hold",
+    "capScope": "Small/mid-cap",
+    "website": "https://www.sabercapitalmgt.com/",
+    "lettersUrl": "https://sabercapitalmgt.com/letters-and-notes/",
+    "socials": [],
+    "dateAdded": "2026-10-18",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "spheria-asset-management-australian-microcap-fund",
+    "manager": "Spheria Asset Management (Australian Microcap Fund)",
+    "fund": "Australian managed fund",
+    "country": "Australia",
+    "style": "Microcap value with quality bias",
+    "capScope": "ASX microcap (S&P/ASX Emerging Companies universe)",
+    "website": "https://spheria.com.au/funds/spheria-australian-microcap-fund/",
+    "lettersUrl": "https://spheria.com.au/wp-content/uploads/Spheria-Australian-Microcap-Fund-Monthly-Update.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
   },
   {
     "id": "stone-sentinel-capital",
@@ -260,15 +579,78 @@
     "lettersUrl": "https://www.stonescap.com/letters",
     "socials": [],
     "dateAdded": "2026-10-16",
-    "returns": {
-      "period": "YTD through 9/30/26",
-      "value": "25.40%",
-      "basis": "gross",
-      "currency": "USD",
-      "source": "https://www.stonescap.com/letters"
-    },
-    "returnsStatus": "sourced",
-    "imageStatus": "pending"
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "strategic-equity-capital-plc-lon-sec-gresham-house",
+    "manager": "Strategic Equity Capital plc (LON:SEC; Gresham House)",
+    "fund": "Investment trust (LSE-listed)",
+    "country": "UK",
+    "style": "Concentrated (15-25) UK smaller companies run with a private-equity engagement approach; pre-IPO funding possible",
+    "capScope": "UK small/micro-cap",
+    "website": "https://greshamhouse.com/strategic-equity/public-equity/strategic-equity-capital-plc/",
+    "lettersUrl": "https://greshamhouse.com/wp-content/uploads/2026/10/Strategic-Equity-Capital-plc-factsheet-September-2026.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "teton-advisors-teton-westwood-mighty-mites-fund-weimx",
+    "manager": "Teton Advisors (TETON Westwood Mighty Mites Fund, WEIMX)",
+    "fund": "Open-end mutual fund (classes AAA/A/C/I)",
+    "country": "US",
+    "style": "US micro-cap value in the Gabelli Private Market Value tradition",
+    "capScope": "Micro-cap",
+    "website": "https://www.tetonadv.com/",
+    "lettersUrl": "https://www.tetonadv.com/mutual-fund-performance/",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "teviot-partners-vt-teviot-uk-smaller-companies-fund",
+    "manager": "Teviot Partners (VT Teviot UK Smaller Companies Fund)",
+    "fund": "Open-end fund (UK OEIC, Acc/Income)",
+    "country": "UK",
+    "style": "Value style UK smaller companies (incl. AIM); small fund size kept deliberately to stay nimble",
+    "capScope": "UK small/micro-cap (Numis Smaller Cos inc AIM universe)",
+    "website": "https://www.teviotpartners.com/",
+    "lettersUrl": "https://www.teviotpartners.com/fund/",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "third-avenue-management-third-avenue-small-cap-value-fund-tascx",
+    "manager": "Third Avenue Management (Third Avenue Small-Cap Value Fund, TASCX)",
+    "fund": "US mutual fund",
+    "country": "US",
+    "style": "Concentrated deep value, well-financed companies",
+    "capScope": "US small-cap value",
+    "website": "https://www.thirdave.com/",
+    "lettersUrl": "https://www.thirdave.com/shareholder-letters/small-cap-value-fund-q226",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "thorney-investment-group-thorney-opportunities-asx-top",
+    "manager": "Thorney Investment Group (Thorney Opportunities, ASX:TOP)",
+    "fund": "Australian listed investment company",
+    "country": "Australia",
+    "style": "Concentrated value/activist with unlisted and small-cap holdings",
+    "capScope": "ASX small/micro-cap plus unlisted",
+    "website": "https://thorney.com.au/",
+    "lettersUrl": "https://thorney.com.au/wp-content/uploads/documents/TOP/NTA%20Announcements/2026/261006-September-2026-Thorney-Opportunities-LTD-Net-Tangible-Asset-Backing.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
   },
   {
     "id": "turtle-creek-asset-management",
@@ -281,17 +663,36 @@
     "lettersUrl": "https://www.turtlecreek.ca/wp-content/uploads/2026/03/Turtle-Creeek-2025-Annual-Letter.pdf",
     "socials": [],
     "dateAdded": "2026-10-17",
-    "returns": {
-      "period": "CY2025",
-      "value": "-12.40%",
-      "basis": "as reported in 2025 annual letter",
-      "currency": "CAD (in CAD terms; USD-terms -7.94% derived: ECB ref FX 0.69501 12/31/24 -> 0.73036 12/31/25)",
-      "source": "https://www.turtlecreek.ca/wp-content/uploads/2026/03/Turtle-Creeek-2025-Annual-Letter.pdf"
-    },
-    "returnsStatus": "sourced",
-    "logoUrl": "https://www.turtlecreek.ca/wp-content/themes/tcreek/images/svg/logo.svg",
-    "imageSource": "https://www.turtlecreek.ca/",
-    "imageStatus": "pending"
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "urbana-corporation-tsx-urb-urb-a",
+    "manager": "Urbana Corporation (TSX:URB / URB.A)",
+    "fund": "TSX/CSE-listed investment company",
+    "country": "Canada",
+    "style": "Value investor in financial exchanges, public + private (CNSX 14.4% of portfolio; Cboe among public holdings)",
+    "capScope": "Micro/small-cap investment vehicle (listed holding company)",
+    "website": "https://www.urbanacorp.com/",
+    "lettersUrl": "https://www.urbanacorp.com/net-asset-reports/",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "wam-microcap-wilson-asset-management",
+    "manager": "WAM Microcap (Wilson Asset Management)",
+    "fund": "Listed investment company (ASX:WMI)",
+    "country": "Australia",
+    "style": "Micro-cap growth, research-driven, flexible cash",
+    "capScope": "Micro-cap",
+    "website": "https://wilsonassetmanagement.com.au/lics/wam-microcap/",
+    "lettersUrl": "https://wilsonassetmanagement.com.au/lics/wam-microcap/",
+    "socials": [],
+    "dateAdded": "2026-10-18",
+    "returns": null,
+    "returnsStatus": "pending"
   },
   {
     "id": "wasatch-global-investors",
@@ -304,16 +705,21 @@
     "lettersUrl": "https://wasatchglobal.com/wasatch-micro-cap-fund-investor/",
     "socials": [],
     "dateAdded": "2026-10-18",
-    "returns": {
-      "period": "Q2 2026",
-      "value": "27.41%",
-      "basis": "net (WMICX Investor Class)",
-      "currency": "USD",
-      "source": "https://wasatchglobal.com/wasatch-micro-cap-fund-investor/"
-    },
-    "returnsStatus": "sourced",
-    "logoUrl": "https://wasatchglobal.com/wp-content/themes/wasatch/assets/images/logo.png",
-    "imageSource": "https://wasatchglobal.com/",
-    "imageStatus": "pending"
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
+    "id": "wasatch-global-investors-wasatch-micro-cap-value-fund-wamvx-wgmvx",
+    "manager": "Wasatch Global Investors (Wasatch Micro Cap Value Fund, WAMVX/WGMVX)",
+    "fund": "Open-end mutual fund (US 40 Act)",
+    "country": "US",
+    "style": "STRICT MICROCAP: undervalued micro-cap companies; benchmark Russell Microcap Index",
+    "capScope": "US micro-cap (Russell Microcap Index)",
+    "website": "https://wasatchglobal.com/wasatch-micro-cap-value-fund-investor/",
+    "lettersUrl": "https://wasatchglobal.com/wp-content/uploads/strategy-and-fund-documents/Micro-Cap-Value-Fund-Factsheet.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
   }
 ]
