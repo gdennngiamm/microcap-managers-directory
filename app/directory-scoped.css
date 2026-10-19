@@ -35,3 +35,6 @@
 .atlas-directory button,.atlas-directory select,.atlas-directory input{transition:border-color .2s,background-color .2s,color .2s}
 @media(max-width:700px){.atlas-directory .toolbar{grid-template-columns:1fr 1fr}.atlas-directory .toolbar input{grid-column:1/-1}.atlas-directory .verified-filters{grid-template-columns:1fr}}
 @media(prefers-reduced-motion:reduce){.atlas-directory *,.atlas-directory *::before{animation:none!important;transition:none!important}}
+.atlas-directory .hero h1 span{display:inline;color:inherit;padding:0 .12em;margin:0 -.12em;border-radius:3px;background:linear-gradient(104deg,#3b82f64d 0%,#2563eb59 100%) no-repeat 0 62%/0% 62%;-webkit-box-decoration-break:clone;box-decoration-break:clone;animation:mmMark .9s .5s cubic-bezier(.65,0,.35,1) forwards}
+@keyframes mmMark{to{background-size:100% 62%}}
+@media(prefers-reduced-motion:reduce){.atlas-directory .hero h1 span{background-size:100% 62%!important}}
