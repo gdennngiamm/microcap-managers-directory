@@ -62,3 +62,4 @@ body .atlas-directory header{background:var(--surface)}
 body .atlas-directory .toolbar input:focus,.atlas-directory .toolbar select:focus,.atlas-directory .verified-filters select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px #2563eb26}
 body .atlas-directory .toolbar input,.atlas-directory .toolbar select,.atlas-directory .verified-filters select{background:var(--surface);color:var(--ink)}
 body .atlas-directory .card-open h3,body .atlas-directory .hero h1{font-weight:500}
+body .atlas-directory .hero h1{font-weight:400}
