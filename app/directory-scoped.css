@@ -15,3 +15,23 @@
 .atlas-directory .card-links{display:flex;gap:14px;padding:0 26px 22px;font-size:11px}
 .atlas-directory .card-links a{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 .atlas-directory .card-links a:hover{color:var(--accent)}
+.atlas-directory .manager-card{display:flex;flex-direction:column;background:var(--surface,transparent)}
+.atlas-directory .manager-card .card-open{height:auto;flex:1}
+.atlas-directory .card-links{margin-top:auto;padding:0 24px 22px}
+.atlas-directory .hero h1 span{color:#2563eb;background:linear-gradient(transparent 82%,#2563eb26 82%);padding:0 2px;border-radius:2px}
+.atlas-directory .toolbar{display:grid;grid-template-columns:minmax(0,1fr) 150px 170px;gap:12px;align-items:stretch;margin:0 0 16px}
+.atlas-directory .toolbar input,.atlas-directory .toolbar select,.atlas-directory .verified-filters select{height:44px;box-sizing:border-box;padding:0 12px;margin-top:0}
+.atlas-directory .verified-filters{display:grid;grid-template-columns:1fr 1fr;gap:12px;align-items:end;margin:0 0 12px}
+.atlas-directory .verified-filters label{display:flex;flex-direction:column;gap:6px;min-width:0}
+.atlas-directory .verified-filters>span{grid-column:1/-1;margin:0}
+@keyframes mmFade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.atlas-directory .hero>*{animation:mmFade .6s cubic-bezier(.2,.7,.2,1) both}
+.atlas-directory .hero>*:nth-child(2){animation-delay:.08s}.atlas-directory .hero>*:nth-child(3){animation-delay:.16s}.atlas-directory .hero>*:nth-child(4){animation-delay:.24s}
+.atlas-directory .manager-card{animation:mmFade .5s cubic-bezier(.2,.7,.2,1) both}
+.atlas-directory .manager-card:nth-child(3n+2){animation-delay:.05s}.atlas-directory .manager-card:nth-child(3n){animation-delay:.1s}
+.atlas-directory .manager-card{transition:transform .25s cubic-bezier(.2,.7,.2,1),box-shadow .25s,border-color .25s}
+.atlas-directory .manager-card:hover{transform:translateY(-4px);box-shadow:0 14px 34px #0000001a;border-color:var(--muted)}
+.atlas-directory .view-enter{animation:mmFade .35s ease-out both}
+.atlas-directory button,.atlas-directory select,.atlas-directory input{transition:border-color .2s,background-color .2s,color .2s}
+@media(max-width:700px){.atlas-directory .toolbar{grid-template-columns:1fr 1fr}.atlas-directory .toolbar input{grid-column:1/-1}.atlas-directory .verified-filters{grid-template-columns:1fr}}
+@media(prefers-reduced-motion:reduce){.atlas-directory *,.atlas-directory *::before{animation:none!important;transition:none!important}}
