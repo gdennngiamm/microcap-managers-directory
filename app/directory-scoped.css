@@ -40,24 +40,24 @@
 @media(prefers-reduced-motion:reduce){.atlas-directory .hero h1 span{background-size:100% 62%!important}}
 .atlas-directory header{padding:0 max(40px,calc((100% - 1440px)/2 + 40px))}
 @media(max-width:600px){.atlas-directory header{padding:0 20px}}
-.atlas-directory .toolbar input{max-width:none;width:100%;flex-basis:auto}
-.atlas-directory .toolbar select{width:100%;flex:none}
-.atlas-network[data-theme=light]{--bg:#f6f8fc;--surface:#fff;--soft:#eaf1ff;--ink:#05070a;--muted:#5b6678;--line:#dbe2ee;--accent:#1d4ed8}
-.atlas-network[data-theme=dark]{--bg:#0a0e16;--surface:#111827;--soft:#16213a;--ink:#f5f8ff;--muted:#9aa7bd;--line:#26334d;--accent:#6ea8ff}
-.atlas-directory h1,.atlas-directory h2,.atlas-directory h3{color:var(--ink);font-weight:600;letter-spacing:-.01em}
-.atlas-directory .hero h1{font-weight:600}.atlas-directory .hero h1{color:var(--ink)}
-.atlas-directory .manager-card{background:var(--surface);border-color:var(--line);box-shadow:0 1px 2px #0f172a0d,0 4px 14px #0f172a0a}
-.atlas-directory .manager-card:hover{border-color:var(--accent);box-shadow:0 14px 36px #1d4ed829}
-.atlas-directory .card-open h3{font-size:16px;font-weight:600}
-.atlas-directory .card-open p{color:var(--muted)}
-.atlas-directory .card-metric b{color:var(--ink);font-weight:600}
-.atlas-directory .badge{background:var(--soft);color:var(--accent);border-color:transparent;font-weight:500}
-.atlas-directory .card-more,.atlas-directory .card-links a{color:var(--accent);font-weight:500}
-.atlas-directory .card-links a{text-decoration-color:currentColor}
-.atlas-directory .card-more{border-top-color:var(--line)}
-.atlas-directory a:hover{color:var(--accent)}
-.atlas-directory .hero h1 span{background:linear-gradient(104deg,#2563eb40 0%,#2563eb66 100%) no-repeat 0 62%/0% 62%}
-.atlas-directory .hero h1 span{animation:mmMark .9s .5s cubic-bezier(.65,0,.35,1) forwards}
-.atlas-directory header{background:var(--surface)}
-.atlas-directory .toolbar input:focus,.atlas-directory .toolbar select:focus,.atlas-directory .verified-filters select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px #2563eb26}
-.atlas-directory .toolbar input,.atlas-directory .toolbar select,.atlas-directory .verified-filters select{background:var(--surface);color:var(--ink)}
+body .atlas-directory .toolbar input{max-width:none;width:100%;flex-basis:auto}
+body .atlas-directory .toolbar select{width:100%;flex:none}
+html body .atlas-network[data-theme=light]{--bg:#f6f8fc;--surface:#fff;--soft:#eaf1ff;--ink:#05070a;--muted:#5b6678;--line:#dbe2ee;--accent:#1d4ed8}
+html body .atlas-network[data-theme=dark]{--bg:#0a0e16;--surface:#111827;--soft:#16213a;--ink:#f5f8ff;--muted:#9aa7bd;--line:#26334d;--accent:#6ea8ff}
+body .atlas-directory h1,.atlas-directory h2,.atlas-directory h3{color:var(--ink);font-weight:600;letter-spacing:-.01em}
+body .atlas-directory .hero h1{font-weight:600}.atlas-directory .hero h1{color:var(--ink)}
+body .atlas-directory .manager-card{background:var(--surface);border-color:var(--line);box-shadow:0 1px 2px #0f172a0d,0 4px 14px #0f172a0a}
+body .atlas-directory .manager-card:hover{border-color:var(--accent);box-shadow:0 14px 36px #1d4ed829}
+body .atlas-directory .card-open h3{font-size:16px;font-weight:600}
+body .atlas-directory .card-open p{color:var(--muted)}
+body .atlas-directory .card-metric b{color:var(--ink);font-weight:600}
+body .atlas-directory .badge{background:var(--soft);color:var(--accent);border-color:transparent;font-weight:500}
+body .atlas-directory .card-more,.atlas-directory .card-links a{color:var(--accent);font-weight:500}
+body .atlas-directory .card-links a{text-decoration-color:currentColor}
+body .atlas-directory .card-more{border-top-color:var(--line)}
+body .atlas-directory a:hover{color:var(--accent)}
+body .atlas-directory .hero h1 span{background:linear-gradient(104deg,#2563eb40 0%,#2563eb66 100%) no-repeat 0 62%/0% 62%}
+body .atlas-directory .hero h1 span{animation:mmMark .9s .5s cubic-bezier(.65,0,.35,1) forwards}
+body .atlas-directory header{background:var(--surface)}
+body .atlas-directory .toolbar input:focus,.atlas-directory .toolbar select:focus,.atlas-directory .verified-filters select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px #2563eb26}
+body .atlas-directory .toolbar input,.atlas-directory .toolbar select,.atlas-directory .verified-filters select{background:var(--surface);color:var(--ink)}
