@@ -63,3 +63,8 @@ body .atlas-directory .toolbar input:focus,.atlas-directory .toolbar select:focu
 body .atlas-directory .toolbar input,.atlas-directory .toolbar select,.atlas-directory .verified-filters select{background:var(--surface);color:var(--ink)}
 body .atlas-directory .card-open h3,body .atlas-directory .hero h1{font-weight:500}
 body .atlas-directory .hero h1{font-weight:400}
+body .atlas-directory .manager-card{transition:transform .22s cubic-bezier(.2,.7,.2,1),box-shadow .22s,border-color .22s}
+body .atlas-directory .manager-card:hover{transform:translateY(-5px);border-color:#2563eb;box-shadow:0 18px 44px #1d4ed833,0 4px 12px #0f172a14}
+body .modal-shade a,body .modal-shade .profile a{color:#1d4ed8;font-weight:inherit}
+body .modal-shade a:hover{color:#1e40af}
+@media(prefers-reduced-motion:reduce){body .atlas-directory .manager-card:hover{transform:none}}
