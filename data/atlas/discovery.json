@@ -1,0 +1,319 @@
+[
+  {
+    "id": "conestoga-capital-advisors",
+    "manager": "Conestoga Capital Advisors",
+    "fund": "Small Cap Growth strategy",
+    "country": "United States (Philadelphia)",
+    "style": "Quality growth",
+    "capScope": "Small cap",
+    "website": "https://conestogacapital.com/",
+    "lettersUrl": "https://conestogacapital.com/2026-q3-commentary/",
+    "socials": [],
+    "dateAdded": "2026-10-18",
+    "returns": {
+      "period": "Q3 2026",
+      "value": "-11.55%",
+      "basis": "net (CCALX; vs R2000 Growth -9.39%)",
+      "currency": "USD",
+      "source": "https://conestogacapital.com/2026-q3-commentary/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://conestogacapital.com/wp-content/uploads/2024/03/white-logo-conestoga.svg",
+    "imageSource": "https://conestogacapital.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ewing-morris-and-co-investment-partners",
+    "manager": "Ewing Morris & Co. Investment Partners",
+    "fund": "Small Cap High Conviction Fund",
+    "country": "Canada (Toronto)",
+    "style": "Value, concentrated",
+    "capScope": "Small cap",
+    "website": "https://ewingmorris.com/",
+    "lettersUrl": "https://ewingmorris.com/small-cap-fund/",
+    "socials": [],
+    "dateAdded": "2026-10-17",
+    "returns": null,
+    "returnsStatus": "pending",
+    "logoUrl": "https://ewingmorris.com/wp-content/uploads/2022/09/Ewing-Morris_Horizontal_PMS-031.svg",
+    "imageSource": "https://www.ewingmorris.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "forager-funds",
+    "manager": "Forager Funds",
+    "fund": "Australian Shares Fund; International Shares Fund",
+    "country": "Australia (Sydney)",
+    "style": "Value, contrarian",
+    "capScope": "Small/micro cap",
+    "website": "https://www.foragerfunds.com/",
+    "lettersUrl": "https://www.foragerfunds.com/reports",
+    "socials": [],
+    "dateAdded": "2026-10-18",
+    "returns": {
+      "period": "Q to 9/30/26 (3M)",
+      "value": "1.60%",
+      "basis": "net (Australian Shares Fund; 1yr -21.3%)",
+      "currency": "AUD (in AUD terms; USD-terms 2.79% derived: ECB ref FX 0.68871 6/30 -> 0.69675 9/30/26)",
+      "source": "https://www.foragerfunds.com/reports"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://cdn.prod.website-files.com/663446fb1731a2810f8d020f/664d784be6f014d2e263c071_logo%20(2).svg",
+    "imageSource": "https://www.foragerfunds.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "heartland-advisors",
+    "manager": "Heartland Advisors",
+    "fund": "Heartland Value Fund; Small Cap Value separate accounts",
+    "country": "United States (Milwaukee)",
+    "style": "Value",
+    "capScope": "Small cap",
+    "website": "https://www.heartlandadvisors.com/",
+    "lettersUrl": "https://www.heartlandadvisors.com/Quarterly-Materials",
+    "socials": [],
+    "dateAdded": "2026-10-18",
+    "returns": {
+      "period": "Q3 2026",
+      "value": "-6.96%",
+      "basis": "net (Value Fund; vs R2000 Value -4.91%)",
+      "currency": "USD",
+      "source": "https://www.heartlandadvisors.com/Quarterly-Materials"
+    },
+    "returnsStatus": "sourced",
+    "imageUrl": "https://www.heartlandadvisors.com/media/Insights/Wheres-Will-Graphics/Web-Graphic.png",
+    "imageSource": "https://www.heartlandadvisors.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "kennedy-capital-management",
+    "manager": "Kennedy Capital Management",
+    "fund": "Micro Cap Strategy",
+    "country": "United States (St. Louis)",
+    "style": "Fundamental value",
+    "capScope": "Micro cap",
+    "website": "https://www.kennedycapital.com/",
+    "lettersUrl": "https://www.kennedycapital.com/category/micro-cap-commentaries/",
+    "socials": [
+      "https://www.linkedin.com/company/kennedy-capital-management"
+    ],
+    "dateAdded": "2026-10-17",
+    "returns": {
+      "period": "Q2 2026",
+      "value": "27.97%",
+      "basis": "net (gross 28.24%)",
+      "currency": "USD",
+      "source": "https://www.kennedycapital.com/category/micro-cap-commentaries/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.kennedycapital.com/media/logo.png",
+    "imageSource": "https://www.kennedycapital.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "mcintyre-partnerships",
+    "manager": "McIntyre Partnerships",
+    "fund": "Partnership letters + mcvalue.blog",
+    "country": "US",
+    "style": "Value, concentrated",
+    "capScope": "Small/micro-cap",
+    "website": "https://www.mcintyrepartnerships.com/",
+    "lettersUrl": "https://www.mcintyrepartnerships.com/letters",
+    "socials": [
+      "https://x.com/Mc_Partnerships",
+      "https://linkedin.com/in/chris-mcintyre-2556365"
+    ],
+    "dateAdded": "2026-10-16",
+    "returns": {
+      "period": "H1 2025",
+      "value": "-19%",
+      "basis": "net (approx., own Q2 2025 letter; latest own-source letter)",
+      "currency": "USD",
+      "source": "https://www.mcintyrepartnerships.com/letters"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/6339dbcc7dc8ac471e3e0dea/d059ea64-765a-4173-838e-dc4a01c2f842/logo.png?format=1500w",
+    "imageSource": "https://www.mcintyrepartnerships.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "microequities-asset-management",
+    "manager": "Microequities Asset Management",
+    "fund": "Deep Value Microcap Fund",
+    "country": "Australia",
+    "style": "Deep value",
+    "capScope": "Microcap",
+    "website": "https://microequities.com.au/",
+    "lettersUrl": "https://microequities.com.au/deep-value-microcap-fund-letter-september-2026/",
+    "socials": [
+      "https://linkedin.com/company/microequities-pty-ltd"
+    ],
+    "dateAdded": "2026-10-16",
+    "returns": {
+      "period": "Sep 2026",
+      "value": "-9.04%",
+      "basis": "net",
+      "currency": "AUD (in AUD terms; USD-terms -11.51% derived: ECB ref FX 0.7162 8/31 -> 0.69675 9/30/26)",
+      "source": "https://microequities.com.au/deep-value-microcap-fund-letter-september-2026/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://microequities.com.au/wp-content/uploads/2023/02/MAM-logo-1.webp",
+    "imageSource": "https://microequities.com.au/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "naos-asset-management",
+    "manager": "NAOS Asset Management",
+    "fund": "NAOS Small Cap Opportunities Co (ASX:NSC) + NCC/NAC LICs",
+    "country": "Australia (Sydney)",
+    "style": "Concentrated value",
+    "capScope": "Small/micro cap LICs",
+    "website": "https://www.naos.com.au/",
+    "lettersUrl": "https://www.naos.com.au/nsc-monthly-report",
+    "socials": [],
+    "dateAdded": "2026-10-18",
+    "returns": {
+      "period": "Sep 2026",
+      "value": "-4.72%",
+      "basis": "as reported (NSC portfolio return)",
+      "currency": "AUD (in AUD terms; USD-terms -7.31% derived: ECB ref FX 0.7162 8/31 -> 0.69675 9/30/26)",
+      "source": "https://www.naos.com.au/nsc-monthly-report"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://cdn.prod.website-files.com/5b3d7f5582ecae7f1e026ce2/60be9de099c2716fb2efb4a7_naos.svg",
+    "imageSource": "https://www.naos.com.au/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "paradice-investment-management",
+    "manager": "Paradice Investment Management",
+    "fund": "Australian Small Cap Fund; Global Small Cap",
+    "country": "Australia (Sydney)",
+    "style": "Fundamental growth/quality",
+    "capScope": "Small/mid cap",
+    "website": "https://www.paradice.com/",
+    "lettersUrl": "https://paradice.com/au/funds/",
+    "socials": [],
+    "dateAdded": "2026-10-17",
+    "returns": {
+      "period": "1 yr to 8/31/26",
+      "value": "13.11%",
+      "basis": "net (Class A; 3M 2.45%)",
+      "currency": "AUD (in AUD terms; USD-terms 24.14% derived: ECB ref FX 0.65256 8/29/25 -> 0.7162 8/31/26)",
+      "source": "https://paradice.com/au/funds/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://paradice.com/wp-content/uploads/Paradice-Investment-Management-Logo_CMYK-White-Gold_RGB_FIN.svg",
+    "imageSource": "https://paradice.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "punch-and-associates",
+    "manager": "Punch & Associates",
+    "fund": "Punch Small Cap Equity Strategy",
+    "country": "United States (Minneapolis)",
+    "style": "Quality value, long holding periods",
+    "capScope": "Small/micro cap",
+    "website": "https://punchinvest.com/",
+    "lettersUrl": "https://punchinvest.com/institutions/investment-philosophy/punch-small-cap-equity-strategy/",
+    "socials": [],
+    "dateAdded": "2026-10-17",
+    "returns": null,
+    "returnsStatus": "pending",
+    "logoUrl": "https://punchinvest.com/wp-content/uploads/2016/06/cropped-PA-Favicon-180x180.png",
+    "imageSource": "https://punchinvest.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "qv-investors",
+    "manager": "QV Investors",
+    "fund": "QV Canadian Small Cap Fund",
+    "country": "Canada",
+    "style": "Quality value",
+    "capScope": "Small-cap",
+    "website": "https://qvinvestors.com/",
+    "lettersUrl": "https://qvinvestors.com/insights/",
+    "socials": [
+      "https://linkedin.com/company/qv-investors-inc-"
+    ],
+    "dateAdded": "2026-10-16",
+    "returns": {
+      "period": "Q2 2026 (3M to 6/30/26)",
+      "value": "7.90%",
+      "basis": "gross",
+      "currency": "CAD (in CAD terms; USD-terms 5.62% derived: ECB ref FX 0.71764 3/31 -> 0.70247 6/30/26)",
+      "source": "https://qvinvestors.com/insights/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://qvinvestors.com/wp-content/uploads/2025/07/QV-Logo-D-1.png",
+    "imageSource": "https://qvinvestors.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "stone-sentinel-capital",
+    "manager": "Stone Sentinel Capital",
+    "fund": "Partnership letters (Letters to Partners)",
+    "country": "US",
+    "style": "Value, long-term compounding",
+    "capScope": "Small/micro-cap (per SA/HFA letter listings)",
+    "website": "https://www.stonescap.com/",
+    "lettersUrl": "https://www.stonescap.com/letters",
+    "socials": [],
+    "dateAdded": "2026-10-16",
+    "returns": {
+      "period": "YTD through 9/30/26",
+      "value": "25.40%",
+      "basis": "gross",
+      "currency": "USD",
+      "source": "https://www.stonescap.com/letters"
+    },
+    "returnsStatus": "sourced",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "turtle-creek-asset-management",
+    "manager": "Turtle Creek Asset Management",
+    "fund": "Turtle Creek Equity Fund (flagship)",
+    "country": "Canada (Toronto)",
+    "style": "Concentrated long-term value (97% active share; no resource cos)",
+    "capScope": "Mid cap (self-benchmarked); small-cap heritage",
+    "website": "https://www.turtlecreek.ca/",
+    "lettersUrl": "https://www.turtlecreek.ca/wp-content/uploads/2026/03/Turtle-Creeek-2025-Annual-Letter.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-17",
+    "returns": {
+      "period": "CY2025",
+      "value": "-12.40%",
+      "basis": "as reported in 2025 annual letter",
+      "currency": "CAD (in CAD terms; USD-terms -7.94% derived: ECB ref FX 0.69501 12/31/24 -> 0.73036 12/31/25)",
+      "source": "https://www.turtlecreek.ca/wp-content/uploads/2026/03/Turtle-Creeek-2025-Annual-Letter.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.turtlecreek.ca/wp-content/themes/tcreek/images/svg/logo.svg",
+    "imageSource": "https://www.turtlecreek.ca/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "wasatch-global-investors",
+    "manager": "Wasatch Global Investors",
+    "fund": "Wasatch Micro Cap Fund (WMICX)",
+    "country": "United States (Salt Lake City)",
+    "style": "Growth, fundamental bottom-up",
+    "capScope": "Micro cap",
+    "website": "https://wasatchglobal.com/",
+    "lettersUrl": "https://wasatchglobal.com/wasatch-micro-cap-fund-investor/",
+    "socials": [],
+    "dateAdded": "2026-10-18",
+    "returns": {
+      "period": "Q2 2026",
+      "value": "27.41%",
+      "basis": "net (WMICX Investor Class)",
+      "currency": "USD",
+      "source": "https://wasatchglobal.com/wasatch-micro-cap-fund-investor/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://wasatchglobal.com/wp-content/themes/wasatch/assets/images/logo.png",
+    "imageSource": "https://wasatchglobal.com/",
+    "imageStatus": "pending"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "reviewedAt": "2026-10-16",
+  "records": {
+    "greystone-capital-partners": {
+      "baseCountry": "United States",
+      "styles": ["Value", "Quality"],
+      "sources": ["https://www.greystonecapitalfund.com/"],
+      "note": "Own site describes a West Chester, Pennsylvania investment partnership, quality businesses, normalized earnings power and long-term ownership. Country means manager base, not portfolio exposure."
+    },
+    "deep-sail-capital": {
+      "styles": ["GARP", "Quality", "Special situations"],
+      "xUrl": "https://twitter.com/DeepSailCapital",
+      "sources": ["https://www.deepsailcapital.com"],
+      "note": "Own site states GARP, quality and special-situations strategies and directly links this X/Twitter profile. The social destination could not be read independently, so availability is unverified. No country exposure is inferred from the fund's US domicile."
+    }
+  }
+}
