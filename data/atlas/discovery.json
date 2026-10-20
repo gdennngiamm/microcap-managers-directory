@@ -10,8 +10,17 @@
     "lettersUrl": "https://www.aberdeeninvestments.com/docs?editionid=ac2d1f5d-3c5f-4bca-842c-a42f81820eed",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "1yr to 2026-08-31",
+      "value": "5.00%",
+      "basis": "NAV total return, cum-income, in GBP terms",
+      "currency": "GBP; USD-terms 1yr 5.70% (derived, ECB ref GBP/USD 1.3449 @2025-08-29 to 1.3539 @2026-08-31)",
+      "source": "https://www.aberdeeninvestments.com/docs?editionid=ac2d1f5d-3c5f-4bca-842c-a42f81820eed"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://edge.sitecorecloud.io/aberdeenasse144-abrdnb714-productioneda2-c20b/media/abrdn-jss-app/logos/abrdn/v/v3/abrdn_invest_blk_ls_rgb--v2-1.svg?iar=0&rev=-1",
+    "imageSource": "https://www.aberdeeninvestments.com/en-gb",
+    "imageStatus": "pending"
   },
   {
     "id": "acorn-capital-acorn-capital-investment-fund-asx-acq",
@@ -24,22 +33,66 @@
     "lettersUrl": "https://www.acorncapital.com.au/wp-content/uploads/2026/10/NTA-September-2026.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "-6.80%",
+      "basis": "total return post fees (NTA basis, incl dividends), in AUD terms",
+      "currency": "AUD; USD-terms 1yr -1.77% (derived, ECB ref AUD/USD 0.66109 @2025-09-30 to 0.69675 @2026-09-30)",
+      "source": "https://www.acorncapital.com.au/wp-content/uploads/2026/10/NTA-September-2026.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.acorncapital.com.au/wp-content/uploads/2022/10/280219-ACQFund-logo-CMYK-1.png",
+    "imageSource": "https://www.acorncapital.com.au/",
+    "imageStatus": "pending"
   },
   {
     "id": "acuitas-investments-acuitas-microcap-composite-us-microcap-fund-afmcx",
     "manager": "Acuitas Investments (Acuitas Microcap Composite / US Microcap Fund AFMCX)",
     "fund": "Institutional multi-manager + mutual fund",
     "country": "US",
-    "style": "STRICT MICROCAP: multi-manager microcap strategy, own definition = Russell Microcap Index range; GIPS-verified composite",
-    "capScope": "US micro-cap (Russell Microcap Index)",
+    "style": "multi-manager microcap strategy, own definition = Russell Microcap Index range; GIPS-verified composite",
+    "capScope": "Micro-cap",
     "website": "https://acuitasinvestments.com/",
-    "lettersUrl": "https://acuitasinvestments.com/wp-content/uploads/2026/04/GIPS-Report_Micro.pdf",
+    "lettersUrl": "https://acuitasfunds.com/wp-content/uploads/2026/08/Acuitas-US-Microcap-Fund-Fact-Sheet-063026-REVISED-081226.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "logoUrl": "https://acuitasinvestments.com/wp-content/uploads/2020/01/cropped-logonew-1_17bc04adb60d54339a5954242af85be0-1.png",
+    "imageSource": "https://acuitasinvestments.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ambit-asset-management-ambit-micro-marvels-portfolio",
+    "manager": "Ambit Asset Management (Ambit Micro Marvels Portfolio)",
+    "fund": "Ambit Micro Marvels Portfolio (PMS)",
+    "country": "India",
+    "style": "Indian micro-cap PMS; universe 501st-1500th by mkt cap (Rs 500-3,500 cr); 18-20 stocks",
+    "capScope": "Micro-cap",
+    "website": "https://www.ambit.co/am-products/ambit-micro-marvels-portfolio/",
+    "lettersUrl": "https://www.ambit.co/wp-content/uploads/2026/05/Ambit-Micro-Marvels-Portfolio-Factsheet-_Oct_26.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": null,
+    "returnsStatus": "pending",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "amundi-amundi-eurozone-microcaps-i-fr0011223569",
+    "manager": "Amundi (Amundi Eurozone Microcaps I, FR0011223569)",
+    "fund": "Amundi Eurozone Microcaps I",
+    "country": "France",
+    "style": "Eurozone micro-cap equities; benchmark-free active; since Aug 2012; Article 6 SFDR",
+    "capScope": "Micro-cap",
+    "website": "https://www.amundi.fr/",
+    "lettersUrl": "https://www.amundi.fr/fr_instit/dl/doc/monthly-factsheet/FR0011223569/FRA/FRA/INSTITUTIONNEL/AMUNDI",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": null,
+    "returnsStatus": "pending",
+    "logoUrl": "https://static.amundi.com/web-assets/awf-assets/amundi-retail/logo.png",
+    "imageSource": "https://www.amundi.fr/",
+    "imageStatus": "pending"
   },
   {
     "id": "athelney-trust-plc-lon-aty",
@@ -52,8 +105,73 @@
     "lettersUrl": "https://www.athelneytrust.co.uk/wp-content/uploads/2026/10/ATY-Factsheet-September-2026.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1mo to 2026-09-30",
+      "value": "-3.91%",
+      "basis": "NAV total return (after fees and dividend), in GBP terms",
+      "currency": "GBP; USD-terms 1mo -5.71% (derived, ECB ref GBP/USD 1.35390 @2026-08-31 to 1.32860 @2026-09-30)",
+      "source": "https://www.athelneytrust.co.uk/wp-content/uploads/2026/10/ATY-Factsheet-September-2026.pdf"
+    },
+    "returnsStatus": "sourced",
+    "imageSource": "https://www.athelneytrust.co.uk/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ausbil-investment-management-ausbil-microcap-fund-aap0007au",
+    "manager": "Ausbil Investment Management (Ausbil MicroCap Fund, AAP0007AU)",
+    "fund": "Ausbil MicroCap Fund (AAP0007AU)",
+    "country": "Australia",
+    "style": "Australian micro-cap active long-only; benchmark S&P/ASX Emerging Companies Accumulation Index",
+    "capScope": "Micro-cap",
+    "website": "https://www.ausbil.com.au/",
+    "lettersUrl": "https://www.ausbil.com.au/getmedia/84540867-17b8-43ee-9ecb-596bdbe50c03/2603-Ausbil-MicroCap-Product-Report_AAP0007AU_1.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "logoUrl": "https://www.ausbil.com.au/getmedia/b96667f0-ecb9-4ca1-ba06-357f34b446ef/company-logo.svg?ext=.svg",
+    "imageSource": "https://www.ausbil.com.au/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "bayview-asset-management-us-microcap-equity-fund",
+    "manager": "Bayview Asset Management (US Microcap Equity Fund)",
+    "fund": "US Microcap Equity Fund (USマイクロキャップ株式ファンド)",
+    "country": "Japan",
+    "style": "US micro-cap equities fund domiciled in Japan; since Feb 2019",
+    "capScope": "Micro-cap",
+    "website": "https://www.bayview.co.jp/invest/fund_info/us_microcap/",
+    "lettersUrl": "https://www.bayview.co.jp/invest/fund_info/us_microcap/pdf/monthly_report.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": null,
+    "returnsStatus": "pending",
+    "logoUrl": "https://www.bayview.co.jp/common/img/logo.png",
+    "imageSource": "https://www.bayview.co.jp/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "berenberg-berenberg-european-micro-cap",
+    "manager": "Berenberg (Berenberg European Micro Cap)",
+    "fund": "Berenberg European Micro Cap M (LU1637618825; launched 2017-10-02)",
+    "country": "Germany (Lux UCITS)",
+    "style": "European micro caps to EUR 1bn, bottom-up growth, 90-120 names; vs MSCI Europe Micro Cap Net",
+    "capScope": "Micro-cap",
+    "website": "https://www.berenberg.de/funds/berenberg-european-micro-cap/",
+    "lettersUrl": "https://www.berenberg.de/funds/factsheet-download/LU1637618825/de_DE/",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1 yr to 2026-09-30",
+      "value": "7.34% in EUR terms (USD-terms 3.8% derived)",
+      "basis": "Total return gross, own factsheet per 30.09.2026; benchmark MSCI Europe Micro Cap Net EUR",
+      "currency": "EUR (USD-terms derived: EUR/USD 1.1741@2025-09-30 to 1.1355@2026-09-30, ECB/frankfurter)",
+      "source": "https://www.berenberg.de/funds/factsheet-download/LU1637618825/de_DE/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.berenberg.de/icons/favicon.svg",
+    "imageSource": "https://www.berenberg.de/funds/berenberg-european-micro-cap/",
+    "imageStatus": "pending"
   },
   {
     "id": "blackrock-blackrock-smaller-companies-trust-plc-lon-brsc",
@@ -66,8 +184,33 @@
     "lettersUrl": "https://www.blackrock.com/uk/literature/fact-sheet/blackrock-smaller-companies-trust-plc-factsheet.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-08-31",
+      "value": "11.00%",
+      "basis": "NAV total return (net of charges), in GBP terms",
+      "currency": "GBP; USD-terms 1yr 11.74% (derived, ECB ref GBP/USD 1.34490 @2025-08-29 to 1.35390 @2026-08-31)",
+      "source": "https://www.blackrock.com/uk/literature/fact-sheet/blackrock-smaller-companies-trust-plc-factsheet.pdf"
+    },
+    "returnsStatus": "sourced",
+    "imageUrl": "https://www.blackrock.com/uk-retail-c-assets/cache-1781863501000/images/media-bin/web/global/headshots/roland-arnold.png",
+    "logoUrl": "https://www.blackrock.com/uk-retail-c-assets/cache-1542298123000/images/media-bin/web/global/wordmark/blackrock-logo-sitemap.svg",
+    "imageSource": "https://www.blackrock.com/uk/solutions/investment-trusts/our-range/blackrock-smaller-companies-investment-trust/trust-information",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "blackrock-ishares-ishares-micro-cap-etf",
+    "manager": "BlackRock iShares (iShares Micro-Cap ETF)",
+    "fund": "iShares Micro-Cap ETF (NYSE Arca: IWC)",
+    "country": "United States",
+    "style": "US micro-cap index ETF tracking Russell Microcap Index; 1,377 holdings; since Aug 2005",
+    "capScope": "Micro-cap",
+    "website": "https://www.ishares.com/us/products/239716/ishares-microcap-etf",
+    "lettersUrl": "https://www.ishares.com/us/literature/fact-sheet/iwc-ishares-micro-cap-etf-fund-fact-sheet-en-us.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "imageStatus": "pending"
   },
   {
     "id": "bridgeway-ultra-small-company-market-busm-etf-formerly-brsix-mutual-fund",
@@ -75,13 +218,22 @@
     "fund": "ETF (mutual fund converted to ETF 7/24/2026)",
     "country": "US",
     "style": "Passive-leaning ultra-small (CRSP 10 size segment), tax-managed",
-    "capScope": "Micro-cap (CRSP decile 10)",
+    "capScope": "Micro-cap",
     "website": "https://bridgewayetfs.com/busm/",
     "lettersUrl": "https://bridgewayetfs.com/busm/",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "1 yr to 9/30/26",
+      "value": "21.08%",
+      "basis": "net (NAV total return; ETF adopted predecessor mutual fund performance)",
+      "currency": "USD",
+      "source": "https://bridgewayetfs.com/busm/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://bridgewayfunds.com/wp-content/themes/foundation/assets/images/bridgeway_funds_logo.svg",
+    "imageSource": "https://bridgewayfunds.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "buffalo-funds-buffalo-small-cap-growth-fund-bufsx-buisx",
@@ -94,8 +246,17 @@
     "lettersUrl": "https://buffalofunds.com/wp-content/uploads/pdf/commentaries/BuffaloFunds-Commentary-SmallCapGrowthFund.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "11.94%",
+      "basis": "average annual total return net of fees (BUFSX), in USD terms",
+      "currency": "USD (native)",
+      "source": "https://buffalofunds.com/wp-content/uploads/pdf/commentaries/BuffaloFunds-Commentary-SmallCapGrowthFund.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://buffalofunds.com/wp-content/uploads/2025/03/bf-block-reverse.png",
+    "imageSource": "https://buffalofunds.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "cadence-capital-asx-cdm",
@@ -108,8 +269,33 @@
     "lettersUrl": "https://www.cadencecapital.com.au/performance/",
     "socials": [],
     "dateAdded": "2026-10-18",
+    "returns": {
+      "period": "Since inception p.a. (20.8 yrs) as of 6/30/26",
+      "value": "10.9% p.a.",
+      "basis": "gross (as reported)",
+      "currency": "AUD (in AUD terms; USD-terms 10.37% p.a. approx derived: ECB ref FX 0.7608 9/30/05 -> 0.68871 6/30/26)",
+      "source": "https://www.cadencecapital.com.au/performance/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.cadencecapital.com.au/favicon.ico",
+    "imageSource": "https://www.cadencecapital.com.au/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "carnegie-fonder-carnegie-micro-cap-a",
+    "manager": "Carnegie Fonder (Carnegie Micro Cap A)",
+    "fund": "Swedish UCITS fund",
+    "country": "Sweden",
+    "style": "ca 30 of the smallest Stockholm-listed companies (own mandate)",
+    "capScope": "Micro-cap",
+    "website": "https://www.carnegiefonder.se/fonder/micro-cap/",
+    "lettersUrl": "https://www.carnegiefonder.se/fonder/micro-cap/",
+    "socials": [],
+    "dateAdded": "2026-10-19",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "imageSource": "https://www.carnegiefonder.se/",
+    "imageStatus": "pending"
   },
   {
     "id": "castlefield-investment-partners-tm-castlefield-thoughtful-uk-smaller-companies-fund",
@@ -122,8 +308,17 @@
     "lettersUrl": "https://www.castlefield.com/media/5rxc22lh/tm-castlefield-thoughtful-uk-smaller-companies-fund-factsheet.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "5yr cumulative to 2026-09-30",
+      "value": "-14.58%",
+      "basis": "total return net of fees (G Income), in GBP terms",
+      "currency": "GBP; USD-terms 5yr -15.66% (derived, ECB ref GBP/USD 1.34560 @2021-09-30 to 1.32860 @2026-09-30)",
+      "source": "https://www.castlefield.com/media/5rxc22lh/tm-castlefield-thoughtful-uk-smaller-companies-fund-factsheet.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.castlefield.com/assets/images/Castlefield-Logo.svg",
+    "imageSource": "https://www.castlefield.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "chelverton-asset-management-chelverton-uk-dividend-trust-plc-lon-sdv",
@@ -136,8 +331,41 @@
     "lettersUrl": "https://www.chelvertonukdividendtrustplc.com/investor-documents/factsheets/",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "YTD to 2026-09-30",
+      "value": "14.12%",
+      "basis": "NAV total return (Ordinary shares), in GBP terms",
+      "currency": "GBP; USD-terms YTD 12.59% (derived, ECB ref GBP/USD 1.34660 @2025-12-31 to 1.32860 @2026-09-30)",
+      "source": "https://www.chelvertonukdividendtrustplc.com/investor-documents/factsheets/"
+    },
+    "returnsStatus": "sourced",
+    "imageUrl": "https://www.chelvertonukdividendtrustplc.com/wp-content/uploads/2022/09/David-Horner-3-480x480.jpg",
+    "logoUrl": "https://www.chelvertonukdividendtrustplc.com/wp-content/uploads/2023/09/Chelverton-RGB-Positive_C.-UK-Dividend-Trust.png",
+    "imageSource": "https://www.chelvertonukdividendtrustplc.com/the-team/investment-team/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "cliens-kapitalforvaltning-cliens-micro-cap",
+    "manager": "Cliens Kapitalförvaltning (Cliens Micro Cap)",
+    "fund": "Cliens Micro Cap (A SEK; inception 2020-09-30)",
+    "country": "Sweden",
+    "style": "Swedish Micro Cap companies (max 0.1% of Stockholm exchange total value at first investment); min 90% Sweden",
+    "capScope": "Micro-cap",
+    "website": "https://www.cliens.se/fonder/micro-cap",
+    "lettersUrl": "https://www.cliens.se/upl/files/216334/andelsklass-a.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "YTD 2026 to 2026-09-30",
+      "value": "-5.4% in SEK terms (USD-terms -12.7% derived)",
+      "basis": "Total return after fees, own monthly report September 2026; benchmark Carnegie Micro Cap Sweden Return Index -0.4% YTD",
+      "currency": "SEK (USD-terms derived: USD/SEK 9.2098@2025-12-31 to 9.9789@2026-09-30, ECB/frankfurter)",
+      "source": "https://www.cliens.se/upl/files/216334/andelsklass-a.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.cliens.se/upl/images/1073596/logo.svg",
+    "imageSource": "https://www.cliens.se/fonder/micro-cap",
+    "imageStatus": "pending"
   },
   {
     "id": "collins-st-asset-management-collins-st-value-fund",
@@ -150,8 +378,17 @@
     "lettersUrl": "https://www.csvf.com.au/wp-content/uploads/2026/01/Collins-St-Asset-Management-December-2025-Quarterly-Report.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "CY2025",
+      "value": "25.80%",
+      "basis": "net, in AUD terms",
+      "currency": "AUD; USD-terms CY2025 35.73% (derived, ECB ref AUD/USD 0.61943 @2024-12-31 to 0.66834 @2025-12-31)",
+      "source": "https://www.csvf.com.au/wp-content/uploads/2026/01/Collins-St-Asset-Management-December-2025-Quarterly-Report.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.csvf.com.au/wp-content/uploads/2025/01/Collins-St-Asset-Management-White.png",
+    "imageSource": "https://www.csvf.com.au/",
+    "imageStatus": "pending"
   },
   {
     "id": "conestoga-capital-advisors",
@@ -164,8 +401,41 @@
     "lettersUrl": "https://conestogacapital.com/2026-q3-commentary/",
     "socials": [],
     "dateAdded": "2026-10-18",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "Q3 2026",
+      "value": "-11.55%",
+      "basis": "net (CCALX; vs R2000 Growth -9.39%)",
+      "currency": "USD",
+      "source": "https://conestogacapital.com/2026-q3-commentary/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://conestogacapital.com/wp-content/uploads/2024/03/white-logo-conestoga.svg",
+    "imageSource": "https://conestogacapital.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "conestoga-capital-advisors-conestoga-micro-cap-growth",
+    "manager": "Conestoga Capital Advisors (Conestoga Micro Cap Growth)",
+    "fund": "Institutional strategy (US)",
+    "country": "US",
+    "style": "25-40 micro-cap growth stocks, sustainable earnings growth; Russell Microcap Growth benchmark",
+    "capScope": "Micro-cap",
+    "website": "https://conestogacapital.com/strategies/micro-cap-growth/",
+    "lettersUrl": "https://conestogacapital.com/wp-content/uploads/Conestoga_MicroCapGrowth_3Q26.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "10.35%",
+      "basis": "total return net of fees (composite), in USD terms",
+      "currency": "USD (native)",
+      "source": "https://conestogacapital.com/wp-content/uploads/Conestoga_MicroCapGrowth_3Q26.pdf"
+    },
+    "returnsStatus": "sourced",
+    "imageUrl": "https://conestogacapital.com/wp-content/uploads/2024/05/david-r-neiderer-cfa-cpa.jpg",
+    "logoUrl": "https://conestogacapital.com/wp-content/uploads/2024/03/white-logo-conestoga.svg",
+    "imageSource": "https://conestogacapital.com/strategies/micro-cap-growth/",
+    "imageStatus": "pending"
   },
   {
     "id": "confluence-investment-management-small-cap-value",
@@ -178,8 +448,34 @@
     "lettersUrl": "https://www.confluenceinvestment.com/wp-content/uploads/Bundled-SCV_1Q_2026_Quarterly_Report.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "Q1 2026",
+      "value": "-5.10%",
+      "basis": "max net-of-fees composite (gross -4.3%)",
+      "currency": "USD",
+      "source": "https://www.confluenceinvestment.com/wp-content/uploads/Bundled-SCV_1Q_2026_Quarterly_Report.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.confluenceinvestment.com/wp-content/uploads/logo.png",
+    "imageSource": "https://www.confluenceinvestment.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "cs-mckee-micro-cap-value-plus",
+    "manager": "CS McKee (Micro Cap Value Plus)",
+    "fund": "Micro Cap Value Plus (SMA composite; inception 2004-01-01)",
+    "country": "United States",
+    "style": "Micro cap value: statistical cheapness + undervaluation + timeliness; 60-80 stocks; SMA",
+    "capScope": "Micro-cap",
+    "website": "https://www.csmckee.com/",
+    "lettersUrl": "https://www.csmckee.com/wp-content/uploads/2026/04/1Q26-Micro-Cap-Value-Plus-Fact-Sheet.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "logoUrl": "https://www.csmckee.com/wp-content/uploads/2025/04/CSMcKee_logo_transparent-web-e1745522078651.png",
+    "imageSource": "https://www.csmckee.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "cyan-investment-management-cyan-c3g-fund",
@@ -192,8 +488,62 @@
     "lettersUrl": "https://www.cyanim.com.au/2026/09/10/cyan-newsletter-31-august-2026/",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "Aug 2026 (month)",
+      "value": "10.50%",
+      "basis": "monthly return per own newsletter, fee basis not restated, in AUD terms",
+      "currency": "AUD; USD-terms pending (single-month FX derivation not meaningful)",
+      "source": "https://www.cyanim.com.au/2026/09/10/cyan-newsletter-31-august-2026/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.cyanim.com.au/cwp/wp-content/themes/cyan/_inc/img/logo.png",
+    "imageSource": "https://www.cyanim.com.au/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "diamond-hill-capital-management-micro-cap-composite",
+    "manager": "Diamond Hill Capital Management (Micro Cap Composite)",
+    "fund": "Institutional composite (US; First Eagle subsidiary)",
+    "country": "US",
+    "style": "intrinsic-value micro cap, companies below US$1bn mkt cap at purchase, 25-40 positions",
+    "capScope": "Micro-cap",
+    "website": "https://www.diamond-hill.com/investment-strategies/us-equity/small-micro-cap/separate-account/",
+    "lettersUrl": "https://www.diamond-hill.com/sitefiles/live/documents/composites/factsheets/Fact-Sheet-Micro-Cap-Composite.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-03-31",
+      "value": "60.31%",
+      "basis": "total return net of fees (composite), in USD terms",
+      "currency": "USD (native)",
+      "source": "https://www.diamond-hill.com/sitefiles/live/documents/composites/factsheets/Fact-Sheet-Micro-Cap-Composite.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.diamond-hill.com/sitefiles/live/images/Diamond_Hill_Logo_full_color_RGB.svg",
+    "imageSource": "https://www.diamond-hill.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "driehaus-capital-management-driehaus-micro-cap-growth-fund-dmcrx",
+    "manager": "Driehaus Capital Management (Driehaus Micro Cap Growth Fund, DMCRX)",
+    "fund": "Open-end mutual fund (US 40 Act)",
+    "country": "US",
+    "style": "micro-cap growth equity (own fund name), Russell Microcap Growth benchmark",
+    "capScope": "Micro-cap",
+    "website": "https://www.driehaus.com/",
+    "lettersUrl": "https://www.driehaus.com/system/uploads/fae/file/asset/9/DMCRX-factsheet-6-30-26.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-06-30",
+      "value": "81.62%",
+      "basis": "average annual total return, net of fees (DMCRX), in USD terms",
+      "currency": "USD (native)",
+      "source": "https://www.driehaus.com/system/uploads/fae/file/asset/9/DMCRX-factsheet-6-30-26.pdf"
+    },
+    "returnsStatus": "sourced",
+    "imageSource": "https://www.driehaus.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "driehaus-micro-cap-growth-fund-dmcrx",
@@ -206,8 +556,16 @@
     "lettersUrl": "https://www.driehaus.com/system/uploads/fae/file/asset/9/DMCRX-factsheet-6-30-26.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "Q2 2026 (quarter to 6/30/26)",
+      "value": "31.06%",
+      "basis": "net (mutual fund returns)",
+      "currency": "USD",
+      "source": "https://www.driehaus.com/system/uploads/fae/file/asset/9/DMCRX-factsheet-6-30-26.pdf"
+    },
+    "returnsStatus": "sourced",
+    "imageSource": "https://www.driehaus.com/funds/driehaus-micro-cap-growth-fund",
+    "imageStatus": "pending"
   },
   {
     "id": "ellerston-capital-australian-micro-cap-fund",
@@ -215,13 +573,62 @@
     "fund": "Australian managed fund",
     "country": "Australia",
     "style": "Microcap growth/quality",
-    "capScope": "ASX microcap",
+    "capScope": "Micro-cap",
     "website": "https://ellerstoncapital.com/funds/australian-micro-cap-fund/",
     "lettersUrl": "https://ellerstoncapital.com/wp-content/uploads/2026/07/EMCF-2026-06.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-06-30",
+      "value": "29.10%",
+      "basis": "net of fees, in AUD terms",
+      "currency": "AUD; USD-terms 1yr 36.16% (derived, ECB ref AUD/USD 0.65300 @2025-06-30 to 0.68871 @2026-06-30)",
+      "source": "https://ellerstoncapital.com/wp-content/uploads/2026/07/EMCF-2026-06.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://ellerstoncapital.com/wp-content/uploads/2020/11/logo.svg",
+    "imageSource": "https://ellerstoncapital.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "empiricus-asset-empiricus-microcap-alert-fif-acoes",
+    "manager": "Empiricus Asset (Empiricus Microcap Alert FIF Acoes)",
+    "fund": "Empiricus Microcap Alert FIF Acoes",
+    "country": "Brazil",
+    "style": "Brazilian micro/small-cap equities following Empiricus Research Microcap Alert series; benchmark B3 Small Cap (SMLL)",
+    "capScope": "Micro-cap",
+    "website": "https://asset.empiricus.com.br/fundo-de-investimento/empiricus-microcap-alert-fia/",
+    "lettersUrl": "https://asset.empiricus.com.br/fundo-de-investimento/empiricus-microcap-alert-fia/",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1 yr to 2026-10-16",
+      "value": "45.95% in BRL terms (USD-terms 56.4% derived)",
+      "basis": "Total return per own fund page cota 16/10/2026; YTD 17.96%; since inception (Feb 2020) -18.56%",
+      "currency": "BRL (USD-terms derived: BRL/USD 0.18355@2025-10-16 to 0.19674@2026-10-16, ECB/frankfurter)",
+      "source": "https://asset.empiricus.com.br/fundo-de-investimento/empiricus-microcap-alert-fia/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://asset.empiricus.com.br/app/themes/gestao/build/images/logo-asset-marca.svg",
+    "imageSource": "https://asset.empiricus.com.br/fundo-de-investimento/empiricus-microcap-alert-fia/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "essex-investment-management-essex-micro-cap-growth",
+    "manager": "Essex Investment Management (Essex Micro Cap Growth)",
+    "fund": "Essex Micro Cap Growth (composite; inception 2007-10-01)",
+    "country": "United States",
+    "style": "US micro cap growth, bottom-up fundamental, 70-100 names; vs Russell Micro Cap Growth Index",
+    "capScope": "Micro-cap",
+    "website": "https://www.essexinvest.com/",
+    "lettersUrl": "https://www.essexinvest.com/wp-content/uploads/2026/05/Essex-Micro-Cap-Growth-Factsheet-1.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "logoUrl": "https://www.essexinvest.com/wp-content/themes/essex/assets/images/logo.png",
+    "imageSource": "https://www.essexinvest.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "ewing-morris-and-co-investment-partners",
@@ -235,7 +642,87 @@
     "socials": [],
     "dateAdded": "2026-10-17",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "logoUrl": "https://ewingmorris.com/wp-content/uploads/2022/09/Ewing-Morris_Horizontal_PMS-031.svg",
+    "imageSource": "https://www.ewingmorris.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "fidelity-investments-canada-fidelity-global-micro-cap-fund",
+    "manager": "Fidelity Investments Canada (Fidelity Global Micro-Cap Fund)",
+    "fund": "Fidelity Global Micro-Cap Fund, Series B (US$)",
+    "country": "Canada",
+    "style": "Global micro-cap equities; PM Salim Hart; 606 holdings; since May 2024",
+    "capScope": "Micro-cap",
+    "website": "https://www.fidelity.ca/en/products/funds/gmc/",
+    "lettersUrl": "https://www.fidelity.ca/content/dam/fidelity/en/documents/fund-pulse/gmcu/fpus_gmc.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1 yr to 2026-09-30",
+      "value": "16.43% in USD terms",
+      "basis": "Total return, own FundPulse as at 30 Sep 2026, Series B (US$); 2-yr ann 17.81%; since inception (May 2024) ann 19.22%",
+      "currency": "USD (native)",
+      "source": "https://www.fidelity.ca/content/dam/fidelity/en/documents/fund-pulse/gmcu/fpus_gmc.pdf"
+    },
+    "returnsStatus": "sourced",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "finserve-finserve-micro-cap-fund",
+    "manager": "Finserve (Finserve Micro Cap Fund)",
+    "fund": "Swedish fund (Finserve Fonder)",
+    "country": "Sweden",
+    "style": "systematically follows the smallest listed companies with dynamic risk control (own mandate)",
+    "capScope": "Micro-cap",
+    "website": "https://finserve.se/",
+    "lettersUrl": "https://finserve.se/category/finserve-micro-cap/",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "-6.81%",
+      "basis": "total return, in SEK terms; USD-terms (derived from ECB ref FX): -12.1% (USD/SEK 9.417 2025-09-30 to 9.9789 2026-09-30)",
+      "currency": "SEK; USD-terms derived from ECB ref FX (rates+dates in col S)",
+      "source": "https://finserve.se/category/finserve-micro-cap/"
+    },
+    "returnsStatus": "sourced",
+    "imageSource": "https://finserve.se/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "fondita-fondita-european-micro-cap-b",
+    "manager": "Fondita (Fondita European Micro Cap B)",
+    "fund": "Finnish UCITS fund",
+    "country": "Finland",
+    "style": "Europe Micro Cap (own fund category), stocks up to EUR 800m cap, MSCI Europe Micro Cap",
+    "capScope": "Micro-cap",
+    "website": "https://fondita.com/fund/european-micro-cap/",
+    "lettersUrl": "https://documents.anevis-solutions.com/fondita/Fondita_European_Micro_Cap_B_EN_US_ultimo.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending",
+    "logoUrl": "https://fondita.com/wp-content/uploads/2022/03/fondita-logo-header_02-1-1-1.png",
+    "imageSource": "https://fondita.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "fondita-fondita-nordic-micro-cap-b",
+    "manager": "Fondita (Fondita Nordic Micro Cap B)",
+    "fund": "Finnish UCITS fund",
+    "country": "Finland",
+    "style": "Nordic Micro Cap (own fund category), stocks up to EUR 800m cap, MSCI Nordic Micro Cap",
+    "capScope": "Micro-cap",
+    "website": "https://fondita.com/fund/nordic-micro-cap/",
+    "lettersUrl": "https://documents.anevis-solutions.com/fondita/Fondita_Nordic_Micro_Cap_B_EN_US_ultimo.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending",
+    "logoUrl": "https://fondita.com/wp-content/uploads/2022/03/fondita-logo-header_02-1-1-1.png",
+    "imageSource": "https://fondita.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "forager-funds",
@@ -248,8 +735,55 @@
     "lettersUrl": "https://www.foragerfunds.com/reports",
     "socials": [],
     "dateAdded": "2026-10-18",
+    "returns": {
+      "period": "Q to 9/30/26 (3M)",
+      "value": "1.60%",
+      "basis": "net (Australian Shares Fund; 1yr -21.3%)",
+      "currency": "AUD (in AUD terms; USD-terms 2.79% derived: ECB ref FX 0.68871 6/30 -> 0.69675 9/30/26)",
+      "source": "https://www.foragerfunds.com/reports"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://cdn.prod.website-files.com/663446fb1731a2810f8d020f/664d784be6f014d2e263c071_logo%20(2).svg",
+    "imageSource": "https://www.foragerfunds.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "fullerthaler-asset-management-behavioral-micro-cap-equity-fund",
+    "manager": "FullerThaler Asset Management (Behavioral Micro-Cap Equity Fund)",
+    "fund": "FullerThaler Behavioral Micro-Cap Equity Fund, Institutional (FTMSX)",
+    "country": "United States",
+    "style": "US micro-cap equity mutual fund vs Russell Microcap Index; insider buying/earnings surprise signals; 66 holdings",
+    "capScope": "Micro-cap",
+    "website": "https://fullerthalerfunds.com/ftmsx/",
+    "lettersUrl": "https://fullerthalerfunds.com/wp-content/uploads/2026/02/Factsheet_Web_FTBehavioralMicroCapEquityFund_4q25-1.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "gay-lussac-gestion-gay-lussac-microcaps-europe",
+    "manager": "Gay-Lussac Gestion (Gay-Lussac Microcaps Europe)",
+    "fund": "Gay-Lussac Microcaps Europe (Class I FR001400QDM4; inception 2019-08-27)",
+    "country": "France",
+    "style": "European micro caps, growth at reasonable price; vs MSCI Europe Micro Caps Net TR; PEA eligible",
+    "capScope": "Micro-cap",
+    "website": "https://www.gaylussacgestion.com/",
+    "lettersUrl": "https://www.gaylussacgestion.com/wp-content/uploads/2026/09/Gay-Lussac-Microcaps-Europe.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "YTD 2026 to 2026-08-31",
+      "value": "7.2% in EUR terms (USD-terms 5.8% derived)",
+      "basis": "Total return Class I net of fees, own factsheet 31 Aug 2026; benchmark MSCI Europe Micro Caps Net TR 7.7% YTD",
+      "currency": "EUR (USD-terms derived: EUR/USD 1.175@2025-12-31 to 1.1596@2026-08-31, ECB/frankfurter)",
+      "source": "https://www.gaylussacgestion.com/wp-content/uploads/2026/09/Gay-Lussac-Microcaps-Europe.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.gaylussacgestion.com/wp-content/uploads/2023/06/Logo-GLG-Original.png",
+    "imageSource": "https://www.gaylussacgestion.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "granahan-investment-management-small-cap-select",
@@ -262,8 +796,55 @@
     "lettersUrl": "https://www.granahan.com/wp-content/uploads/2026/07/FINAL_2026-Q2-GIM-SC-Select.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "Q2 2026",
+      "value": "63.40%",
+      "basis": "gross (GIPS composite, per own letter)",
+      "currency": "USD",
+      "source": "https://www.granahan.com/wp-content/uploads/2026/07/FINAL_2026-Q2-GIM-SC-Select.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.granahan.com/wp-content/uploads/2019/05/logo.png",
+    "imageSource": "https://www.granahan.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "grandeur-peak-global-advisors-global-micro-cap-fund-institutional-gpmcx",
+    "manager": "Grandeur Peak Global Advisors (Global Micro Cap Fund Institutional, GPMCX)",
+    "fund": "Global Micro Cap Fund - Institutional Class (GPMCX)",
+    "country": "United States",
+    "style": "Global micro-cap growth; invests primarily in microcap companies worldwide; benchmark MSCI World Micro Cap",
+    "capScope": "Micro-cap",
+    "website": "https://grandeurpeakglobal.com/fund/global-micro-cap-fund-institutional/",
+    "lettersUrl": "https://regdocs.blugiant.com/wp-content/uploads/2026/07/2Q26-Global-Micro_STAMPED.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "handelsbanken-fonder-handelsbanken-microcap-sverige",
+    "manager": "Handelsbanken Fonder (Handelsbanken Microcap Sverige)",
+    "fund": "Handelsbanken Microcap Sverige (A SEK; ISIN SE0008431803)",
+    "country": "Sweden",
+    "style": "Actively managed Swedish micro caps; holding size capped at largest company in benchmark index; monthly dealing",
+    "capScope": "Micro-cap",
+    "website": "https://handelsbanken.fondlista.se/shb/en.gb/funds/0p0001885i",
+    "lettersUrl": "https://handelsbanken.fondlista.se/shb/en.gb/funds/0p0001885i",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "YTD 2026 to 2026-05-13",
+      "value": "-3.75% in SEK terms (USD-terms -4.9% derived)",
+      "basis": "Own fund centre data as of 13 May 2026, incl. distributions; 1-yr 2.01%, 5-yr cum -38.54%",
+      "currency": "SEK (USD-terms derived: USD/SEK 9.2098@2025-12-31 to 9.3171@2026-05-13, ECB/frankfurter)",
+      "source": "https://handelsbanken.fondlista.se/shb/en.gb/funds/0p0001885i"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.handelsbanken.se/favicon.ico",
+    "imageSource": "https://handelsbanken.fondlista.se/shb/en.gb/funds/0p0001885i",
+    "imageStatus": "pending"
   },
   {
     "id": "heartland-advisors",
@@ -276,8 +857,57 @@
     "lettersUrl": "https://www.heartlandadvisors.com/Quarterly-Materials",
     "socials": [],
     "dateAdded": "2026-10-18",
+    "returns": {
+      "period": "Q3 2026",
+      "value": "-6.96%",
+      "basis": "net (Value Fund; vs R2000 Value -4.91%)",
+      "currency": "USD",
+      "source": "https://www.heartlandadvisors.com/Quarterly-Materials"
+    },
+    "returnsStatus": "sourced",
+    "imageUrl": "https://www.heartlandadvisors.com/media/Insights/Wheres-Will-Graphics/Web-Graphic.png",
+    "imageSource": "https://www.heartlandadvisors.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "integrity-asset-management-integrity-micro-cap-value-equity-composite",
+    "manager": "Integrity Asset Management (Integrity Micro Cap Value Equity composite)",
+    "fund": "Integrity Micro Cap Value Equity composite",
+    "country": "United States",
+    "style": "Micro-cap value composite; benchmark Russell Microcap Value Index; composite inception 2/1/2011",
+    "capScope": "Micro-cap",
+    "website": "https://www.vcm.com/",
+    "lettersUrl": "https://www.vcm.com/",
+    "socials": [],
+    "dateAdded": "2026-10-20",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "logoUrl": "https://www.vcm.com/content/dam/vcm/franchises/Integrity.AM.Logo.png",
+    "imageSource": "https://www.vcm.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "james-investment-research-james-micro-cap-fund-jmcrx",
+    "manager": "James Investment Research (James Micro Cap Fund, JMCRX)",
+    "fund": "Open-end mutual fund (US 40 Act)",
+    "country": "US",
+    "style": "Micro Cap Fund (own name), quality core with value tilt, proprietary research",
+    "capScope": "Micro-cap",
+    "website": "https://www.jamesinvestment.com/",
+    "lettersUrl": "https://www.jamesinvestment.com/wp-content/uploads/james-fund-data/micro-cap/documents/fact-sheet-1791989867.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "13.62%",
+      "basis": "average annual total return net of fees (JMCRX), in USD terms",
+      "currency": "USD (native)",
+      "source": "https://www.jamesinvestment.com/wp-content/uploads/james-fund-data/micro-cap/documents/fact-sheet-1791989867.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.jamesinvestment.com/wp-content/uploads/2023/08/james-headerlogo.webp",
+    "imageSource": "https://www.jamesinvestment.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "katana-capital-asx-kat",
@@ -290,8 +920,17 @@
     "lettersUrl": "https://katanaasset.com/wp-content/uploads/2026/09/20260831-KAT-KT01-Monthly-NTA-Final.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "Aug 2026 (month)",
+      "value": "4.42%",
+      "basis": "NTA after tax monthly change, unaudited, in AUD terms",
+      "currency": "AUD; USD-terms pending (single-month FX derivation not meaningful)",
+      "source": "https://katanaasset.com/wp-content/uploads/2026/09/20260831-KAT-KT01-Monthly-NTA-Final.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://katanaasset.com/wp-content/uploads/2016/04/cropped-favicon-300x300.png",
+    "imageSource": "https://katanaasset.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "kennedy-capital-management",
@@ -299,15 +938,47 @@
     "fund": "Micro Cap Strategy",
     "country": "United States (St. Louis)",
     "style": "Fundamental value",
-    "capScope": "Micro cap",
+    "capScope": "Micro-cap",
     "website": "https://www.kennedycapital.com/",
     "lettersUrl": "https://www.kennedycapital.com/category/micro-cap-commentaries/",
     "socials": [
       "https://www.linkedin.com/company/kennedy-capital-management"
     ],
     "dateAdded": "2026-10-17",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "Q2 2026",
+      "value": "27.97%",
+      "basis": "net (gross 28.24%)",
+      "currency": "USD",
+      "source": "https://www.kennedycapital.com/category/micro-cap-commentaries/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.kennedycapital.com/media/logo.png",
+    "imageSource": "https://www.kennedycapital.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "kennedy-capital-management-micro-cap-strategy",
+    "manager": "Kennedy Capital Management (Micro Cap strategy)",
+    "fund": "Institutional strategy (US)",
+    "country": "US",
+    "style": "dedicated Micro Cap strategy (own name), Russell Microcap benchmark, 185 positions",
+    "capScope": "Micro-cap",
+    "website": "https://www.kennedycapital.com/micro-cap/",
+    "lettersUrl": "https://www.kennedycapital.com/media/KCM-Micro-Cap-Factsheet.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-06-30",
+      "value": "60.80%",
+      "basis": "total return net of fees, in USD terms",
+      "currency": "USD (native)",
+      "source": "https://www.kennedycapital.com/media/KCM-Micro-Cap-Factsheet.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.kennedycapital.com/media/logo.png",
+    "imageSource": "https://www.kennedycapital.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "kernow-asset-management-kernow-strategy-cg-kernow-equity-navigator",
@@ -320,8 +991,163 @@
     "lettersUrl": "https://kernowam.com/performance.html",
     "socials": [],
     "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "cumulative Nov 2019 to 2026-08-31",
+      "value": "139.10%",
+      "basis": "cumulative total return (own site; hybrid record - see notes), in GBP terms",
+      "currency": "GBP; USD-terms pending (multi-year span needs period FX series)",
+      "source": "https://kernowam.com/performance.html"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://kernowam.com/assets/images/KAM_logo.png",
+    "imageSource": "https://kernowam.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "lannebo-kapitalforvaltning-lannebo-sweden-micro-cap",
+    "manager": "Lannebo Kapitalförvaltning (Lannebo Sweden Micro Cap)",
+    "fund": "Lannebo Sweden Micro Cap (class A SEK; inception 1997-05-29)",
+    "country": "Sweden",
+    "style": "Active Swedish micro-cap equities; max 0.5% of Stockholm exchange total market value at purchase; up to 10% Nordic",
+    "capScope": "Micro-cap",
+    "website": "https://www.lannebo.se/fonder/lannebo-sweden-micro-cap/",
+    "lettersUrl": "https://www.lannebo.se/fonder/lannebo-sweden-micro-cap/",
+    "socials": [],
+    "dateAdded": "2026-10-20",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "logoUrl": "https://www.lannebo.se/favicon.svg",
+    "imageSource": "https://www.lannebo.se/fonder/lannebo-sweden-micro-cap/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "liontrust-uk-micro-cap-fund-i-acc-gbp",
+    "manager": "Liontrust (UK Micro Cap Fund, I Acc GBP)",
+    "fund": "UK OEIC",
+    "country": "UK",
+    "style": "UK Micro Cap Fund (own name), Economic Advantage process, min 3% management ownership",
+    "capScope": "Micro-cap",
+    "website": "https://www.liontrust.com/funds/uk-micro-cap-fund",
+    "lettersUrl": "https://www2.liontrust.com/documents/uk-micro-cap-fund-factsheet-i-acc-gbp.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending",
+    "imageSource": "https://www.liontrust.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "lord-abbett-micro-cap-growth-fund-lamgx",
+    "manager": "Lord Abbett (Micro Cap Growth Fund, LAMGX)",
+    "fund": "Open-end mutual fund (US 40 Act)",
+    "country": "US",
+    "style": "US micro-cap growth (own fund name); long-term capital appreciation, 81 holdings",
+    "capScope": "Micro-cap",
+    "website": "https://www.lordabbett.com/",
+    "lettersUrl": "https://fulfillment.lordabbett.com/file/966d9a8ce961905ff4d19a4947e52fe7/filename/Micro_Cap_Growth_Fund_Fact_Sheet",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-06-30",
+      "value": "57.71%",
+      "basis": "average annual total return at NAV, net of fees (LAMGX Class A), in USD terms",
+      "currency": "USD (native)",
+      "source": "https://fulfillment.lordabbett.com/file/966d9a8ce961905ff4d19a4947e52fe7/filename/Micro_Cap_Growth_Fund_Fact_Sheet"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.lordabbett.com/content/dam/lordabbett-captivate/images/logo/apple.png",
+    "imageSource": "https://www.lordabbett.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "lupus-alpha-asset-management-lupus-alpha-micro-champions",
+    "manager": "Lupus alpha Asset Management (Lupus alpha Micro Champions)",
+    "fund": "Lupus alpha Micro Champions (C, LU1891775857; inception 2019-01-31)",
+    "country": "Germany (Lux UCITS)",
+    "style": "European micro caps (EUR 50m-1bn market cap), quality growth niches; vs MSCI Europe Micro Cap Net TR",
+    "capScope": "Micro-cap",
+    "website": "https://www.lupusalpha.com/products/fund/lupus-alpha-micro-champions-c/",
+    "lettersUrl": "https://www.lupusalpha.com/fileadmin/FondsFiles/LU1891775857/EN/Factsheet.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1 yr to 2026-09-30",
+      "value": "13.77% in EUR terms (USD-terms 10.0% derived)",
+      "basis": "Total return gross of fees, own factsheet 30.09.2026; benchmark MSCI Europe Micro Cap Net TR 7.86% same period",
+      "currency": "EUR (USD-terms derived: EUR/USD 1.1741@2025-09-30 to 1.1355@2026-09-30, ECB/frankfurter)",
+      "source": "https://www.lupusalpha.com/fileadmin/FondsFiles/LU1891775857/EN/Factsheet.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.lupusalpha.com/_assets/71fe7c313dc605aad1593f18cd7dc1cd/Images/Logo.png",
+    "imageSource": "https://www.lupusalpha.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "magallanes-value-investors-magallanes-microcaps-europe",
+    "manager": "Magallanes Value Investors (Magallanes Microcaps Europe)",
+    "fund": "Magallanes Microcaps Europe FI Class B (inception 2017-03-17)",
+    "country": "Spain",
+    "style": "European microcap value, sub-EUR700m free-float focus; vs MSCI Europe Micro Cap NR",
+    "capScope": "Micro-cap",
+    "website": "https://magallanesvalue.com/en/",
+    "lettersUrl": "https://magallanesvalue.com/wp-content/uploads/mensual-microcaps.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1 yr to 2026-09-30",
+      "value": "3.43% in EUR terms (USD-terms 0.0% derived)",
+      "basis": "Total return Class B, own monthly ficha 30 Sep 2026; reference index MSCI Europe Micro Cap NR 7.86%",
+      "currency": "EUR (USD-terms derived: EUR/USD 1.1741@2025-09-30 to 1.1355@2026-09-30, ECB/frankfurter)",
+      "source": "https://magallanesvalue.com/wp-content/uploads/mensual-microcaps.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://magallanesvalue.com/wp-content/uploads/2019/09/magallanes-logo.png",
+    "imageSource": "https://magallanesvalue.com/en/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "mandarine-gestion-mandarine-europe-microcap-r-lu1303940784",
+    "manager": "Mandarine Gestion (Mandarine Europe Microcap R, LU1303940784)",
+    "fund": "Mandarine Europe Microcap R",
+    "country": "France",
+    "style": "European micro-cap quant+fundamental GARP; bench 50% MSCI Europe Microcap + 50% ex-UK Microcap NR",
+    "capScope": "Micro-cap",
+    "website": "https://www.mandarine-gestion.com/FR/fr/docs/funds/mandarine-europe-microcap/AR",
+    "lettersUrl": "https://ruv-lu.tools.factsheetslive.com/portfolioplaner/product/LU1303940784/documents/Factsheet/",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1 yr to 2026-08-31",
+      "value": "8.2% in EUR terms (USD-terms 7.6% derived)",
+      "basis": "Net total return R share, own monthly report 31 Aug 2026; YTD 6.6%; 3-yr 30.3% cum; since inception 189.3% cum (8.7% pa)",
+      "currency": "EUR (USD-terms derived: EUR/USD 1.1658@2025-08-29 to 1.1596@2026-08-31, ECB/frankfurter)",
+      "source": "https://ruv-lu.tools.factsheetslive.com/portfolioplaner/product/LU1303940784/documents/Factsheet/"
+    },
+    "returnsStatus": "sourced",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "marlborough-fund-managers-ifsl-marlborough-nano-cap-growth-fund",
+    "manager": "Marlborough Fund Managers (IFSL Marlborough Nano-Cap Growth Fund)",
+    "fund": "UK UCITS fund",
+    "country": "UK",
+    "style": "STRICT MICROCAP: nano-cap growth (own fund name; FTSE AIM All-Share universe)",
+    "capScope": "UK nano/micro-cap (FTSE AIM All-Share benchmark)",
+    "website": "https://www.marlboroughgroup.com/funds/individual/marlborough-nano-cap-growth",
+    "lettersUrl": "https://mghlmarketing.blob.core.windows.net/factsheets/IFSL%20Marlborough%20Nano-Cap%20Growth%20Class%20P.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-08-31",
+      "value": "17.50%",
+      "basis": "total return net of fees (P Acc), in GBP terms",
+      "currency": "GBP; USD-terms 1yr 18.29% (derived, ECB ref GBP/USD 1.3449 @2025-08-29 to 1.3539 @2026-08-31)",
+      "source": "https://mghlmarketing.blob.core.windows.net/factsheets/IFSL%20Marlborough%20Nano-Cap%20Growth%20Class%20P.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://cdn.prod.website-files.com/6418935e2b8f0e1dc8bfb3ab/649010e0a2a6c1cf35c2ce17_Footer%20Logo.svg",
+    "imageSource": "https://www.marlboroughgroup.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "marlborough-fund-managers-ifsl-marlborough-uk-micro-cap-growth-fund",
@@ -329,13 +1155,39 @@
     "fund": "UK UCITS fund",
     "country": "UK",
     "style": "UK micro-cap growth",
-    "capScope": "UK micro-cap (FTSE AIM/small companies)",
+    "capScope": "Micro-cap",
+    "website": "https://www.marlboroughgroup.com/funds/individual/marlborough-uk-micro-cap-growth",
+    "lettersUrl": "https://mghlmarketing.blob.core.windows.net/factsheets/IFSL%20Marlborough%20UK%20Micro-Cap%20Growth%20Class%20P.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "12m to 2026-08-31",
+      "value": "14.90%",
+      "basis": "net (P Acc), in GBP terms",
+      "currency": "GBP; USD-terms 12m 15.67% (derived, ECB ref GBP/USD 1.3449 @2025-08-29 to 1.3539 @2026-08-31)",
+      "source": "https://mghlmarketing.blob.core.windows.net/factsheets/IFSL%20Marlborough%20UK%20Micro-Cap%20Growth%20Class%20P.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://cdn.prod.website-files.com/6418935e2b8f0e1dc8bfb3ab/649010e0a2a6c1cf35c2ce17_Footer%20Logo.svg",
+    "imageSource": "https://www.marlboroughgroup.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "marlborough-ifsl-marlborough-uk-micro-cap-growth-p-acc",
+    "manager": "Marlborough (IFSL Marlborough UK Micro-Cap Growth, P Acc)",
+    "fund": "UK unit trust",
+    "country": "UK",
+    "style": "UK Micro-Cap Growth fund (own name); 177 holdings, FTSE AIM All-Share benchmark",
+    "capScope": "Micro-cap",
     "website": "https://www.marlboroughgroup.com/funds/individual/marlborough-uk-micro-cap-growth",
     "lettersUrl": "https://mghlmarketing.blob.core.windows.net/factsheets/IFSL%20Marlborough%20UK%20Micro-Cap%20Growth%20Class%20P.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "logoUrl": "https://cdn.prod.website-files.com/6418935e2b8f0e1dc8bfb3ab/649010e0a2a6c1cf35c2ce17_Footer%20Logo.svg",
+    "imageSource": "https://www.marlboroughgroup.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "mcintyre-partnerships",
@@ -351,8 +1203,17 @@
       "https://linkedin.com/in/chris-mcintyre-2556365"
     ],
     "dateAdded": "2026-10-16",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "H1 2025",
+      "value": "-19%",
+      "basis": "net (approx., own Q2 2025 letter; latest own-source letter)",
+      "currency": "USD",
+      "source": "https://www.mcintyrepartnerships.com/letters"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/6339dbcc7dc8ac471e3e0dea/d059ea64-765a-4173-838e-dc4a01c2f842/logo.png?format=1500w",
+    "imageSource": "https://www.mcintyrepartnerships.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "merewether-capital-inception-fund",
@@ -365,8 +1226,18 @@
     "lettersUrl": "https://www.merewethercapital.com.au/fund-updates/",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "1yr to 2026-08-31",
+      "value": "-4.40%",
+      "basis": "net (NAV-based, after fees), in AUD terms",
+      "currency": "AUD; USD-terms 1yr 4.92% (derived, ECB ref AUD/USD 0.65256 @2025-08-29 to 0.71620 @2026-08-31)",
+      "source": "https://www.merewethercapital.com.au/fund-updates/"
+    },
+    "returnsStatus": "sourced",
+    "imageUrl": "https://www.merewethercapital.com.au/wp-content/uploads/2025/09/Luke-W-New-Headshot-White.png",
+    "logoUrl": "https://www.merewethercapital.com.au/wp-content/uploads/elementor/thumbs/MC_logo_h-pdmee77epjicso4s08284vd8ebdufe7u1icp9cmkfe.png",
+    "imageSource": "https://www.merewethercapital.com.au/",
+    "imageStatus": "pending"
   },
   {
     "id": "microequities-asset-management",
@@ -374,15 +1245,93 @@
     "fund": "Deep Value Microcap Fund",
     "country": "Australia",
     "style": "Deep value",
-    "capScope": "Microcap",
+    "capScope": "Micro-cap",
     "website": "https://microequities.com.au/",
     "lettersUrl": "https://microequities.com.au/deep-value-microcap-fund-letter-september-2026/",
     "socials": [
       "https://linkedin.com/company/microequities-pty-ltd"
     ],
     "dateAdded": "2026-10-16",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "Sep 2026",
+      "value": "-9.04%",
+      "basis": "net",
+      "currency": "AUD (in AUD terms; USD-terms -11.51% derived: ECB ref FX 0.7162 8/31 -> 0.69675 9/30/26)",
+      "source": "https://microequities.com.au/deep-value-microcap-fund-letter-september-2026/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://microequities.com.au/wp-content/uploads/2023/02/MAM-logo-1.webp",
+    "imageSource": "https://microequities.com.au/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "microequities-asset-management-pure-microcap-value-fund",
+    "manager": "Microequities Asset Management (Pure Microcap Value Fund)",
+    "fund": "Pure Microcap Value Fund (inception Oct 2017)",
+    "country": "Australia",
+    "style": "100% Australian listed microcaps; concentrated 15-40 undervalued profitable names; monthly liquidity",
+    "capScope": "Micro-cap",
+    "website": "https://microequities.com.au/our-funds/pure-microcap-value-fund/",
+    "lettersUrl": "https://microequities.com.au/our-funds/pure-microcap-value-fund/",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1 yr to 2026-09-30",
+      "value": "-26.13% in AUD terms (USD-terms -22.1% derived)",
+      "basis": "Total return after all fees, own fund page as at 30 Sep 2026; since inception compound 4.73% p.a.",
+      "currency": "AUD (USD-terms derived: AUD/USD 0.66109@2025-09-30 to 0.69675@2026-09-30, ECB/frankfurter)",
+      "source": "https://microequities.com.au/our-funds/pure-microcap-value-fund/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://microequities.com.au/wp-content/uploads/2022/08/MAM-logo-1.png",
+    "imageSource": "https://microequities.com.au/our-funds/pure-microcap-value-fund/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "montanaro-asset-management-montanaro-european-smaller-companies-trust-lon-mte",
+    "manager": "Montanaro Asset Management (Montanaro European Smaller Companies Trust, LON:MTE)",
+    "fund": "Investment trust (closed-end)",
+    "country": "UK (invests Continental Europe)",
+    "style": "Continental European quoted smaller companies; 48 holdings, quality-growth tilt",
+    "capScope": "European small/micro-cap (MSCI Europe SmallCap ex UK benchmark; blended - smaller companies mandate)",
+    "website": "https://montanaro.co.uk/montanaro-european-smaller-companies-trust/",
+    "lettersUrl": "https://montanaro.co.uk/wp-content/uploads/Montanaro-European-Smaller-Companies-Trust-Monthly-Factsheet-Current.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-08-28",
+      "value": "5.40%",
+      "basis": "NAV total return, cum-income, in GBP terms",
+      "currency": "GBP; USD-terms 1yr 6.11% (derived, ECB ref GBP/USD 1.3449 @2025-08-29 to 1.3539 @2026-08-31)",
+      "source": "https://montanaro.co.uk/wp-content/uploads/Montanaro-European-Smaller-Companies-Trust-Monthly-Factsheet-Current.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://montanaro.co.uk/wp-content/uploads/montanaro-logo%402x-1.png",
+    "imageSource": "https://montanaro.co.uk/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "morgan-dempsey-capital-management-morgan-dempsey-micro-cap",
+    "manager": "Morgan Dempsey Capital Management (Morgan Dempsey Micro Cap)",
+    "fund": "Institutional strategy (US)",
+    "country": "US",
+    "style": "micro-cap value/quality, net-of-fee track from 1/7/2021; Russell Micro Cap benchmark",
+    "capScope": "Micro-cap",
+    "website": "https://www.morgandempsey.com/micro-cap",
+    "lettersUrl": "https://www.morgandempsey.com/s/MD-Micro-Cap-Q3-2026.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "69.56%",
+      "basis": "total return net of fees, in USD terms",
+      "currency": "USD (native)",
+      "source": "https://www.morgandempsey.com/s/MD-Micro-Cap-Q3-2026.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/60c8f07d933dc5156569613b/6b79273e-c556-47f2-8bfd-92790ecd12ff/MD_LOGO.jpg?format=1500w",
+    "imageSource": "https://www.morgandempsey.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "naos-asset-management",
@@ -395,8 +1344,17 @@
     "lettersUrl": "https://www.naos.com.au/nsc-monthly-report",
     "socials": [],
     "dateAdded": "2026-10-18",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "Sep 2026",
+      "value": "-4.72%",
+      "basis": "as reported (NSC portfolio return)",
+      "currency": "AUD (in AUD terms; USD-terms -7.31% derived: ECB ref FX 0.7162 8/31 -> 0.69675 9/30/26)",
+      "source": "https://www.naos.com.au/nsc-monthly-report"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://cdn.prod.website-files.com/5b3d7f5582ecae7f1e026ce2/60be9de099c2716fb2efb4a7_naos.svg",
+    "imageSource": "https://www.naos.com.au/",
+    "imageStatus": "pending"
   },
   {
     "id": "nge-capital-nge-capital-limited-asx-nge",
@@ -409,8 +1367,118 @@
     "lettersUrl": "https://ngecapital.com.au/investor-information/asx-releases/",
     "socials": [],
     "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "0.10%",
+      "basis": "total return net of expenses (pre-tax NTA per share), in AUD terms",
+      "currency": "AUD; USD-terms 1yr 5.50% (derived, ECB ref AUD/USD 0.66109 @2025-09-30 to 0.69675 @2026-09-30)",
+      "source": "https://ngecapital.com.au/investor-information/asx-releases/"
+    },
+    "returnsStatus": "sourced",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "o-shaughnessy-asset-management-o-shaughnessy-micro-cap",
+    "manager": "O'Shaughnessy Asset Management (O'Shaughnessy Micro Cap)",
+    "fund": "Institutional strategy (US, Franklin Templeton)",
+    "country": "US",
+    "style": "micro-cap quant strategy, US$50-200m caps, Russell Microcap benchmark (own mandate)",
+    "capScope": "Micro-cap",
+    "website": "https://www.osam.com/",
+    "lettersUrl": "https://www.osam.com/factsheets/Micro%20Cap%20-%20Intermediary%20Factsheet%20-%201Q%202026.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1yr to 2026-03-31",
+      "value": "18.30%",
+      "basis": "composite total return net of fees, in USD terms",
+      "currency": "USD (native)",
+      "source": "https://www.osam.com/factsheets/Micro%20Cap%20-%20Intermediary%20Factsheet%20-%201Q%202026.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://franklintempletonprod.widen.net/content/hrxzxi4q8b/webp/ft-global-logo-header.png",
+    "imageSource": "https://www.osam.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "oc-funds-management-oc-micro-cap-fund",
+    "manager": "OC Funds Management (OC Micro-Cap Fund)",
+    "fund": "OC Micro-Cap Fund (APIR OPS0004AU; inception 2003-11-21)",
+    "country": "Australia",
+    "style": "Long-only benchmark-unaware AU micro-caps (under A$500m at acquisition); target 5% p.a. over benchmark",
+    "capScope": "Micro-cap",
+    "website": "https://www.ocfunds.com.au/micro-cap-fund",
+    "lettersUrl": "https://www.ocfunds.com.au/_files/ugd/01bd19_77b1ce72a6a94249802a3fe208b381a5.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "logoUrl": "https://static.wixstatic.com/media/4ef974_f42344872c504e02b913883a7de2bf8d~mv2.png/v1/fill/w_136,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/OC-Logo-Blue-Grey.png",
+    "imageSource": "https://www.ocfunds.com.au/micro-cap-fund",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "octopus-investments-fp-octopus-uk-micro-cap-growth-fund-p-acc",
+    "manager": "Octopus Investments (FP Octopus UK Micro Cap Growth Fund, P Acc)",
+    "fund": "UK OEIC",
+    "country": "UK",
+    "style": "UK micro-cap growth (own fund name); core-satellite, profitable core + higher-risk growth satellites",
+    "capScope": "Micro-cap",
+    "website": "https://octopusinvestments.com/our-products/quoted-funds/fp-octopus-uk-micro-cap-growth-fund/",
+    "lettersUrl": "https://media.octopusinvestments.com/asset/c1c8da0f-0149-48d7-9ed0-ed14c5239ffb/FP-Octopus-UK-Micro-Cap-Growth-factsheet.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending",
+    "logoUrl": "https://octopusinvestments.com/wp-content/themes/investments-rebrand/dist/static/img/octopus-logo-oi-white.svg",
+    "imageSource": "https://octopusinvestments.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "oddo-bhf-asset-management-oddo-bhf-active-micro-cap",
+    "manager": "ODDO BHF Asset Management (ODDO BHF Active Micro Cap)",
+    "fund": "ODDO BHF Active Micro Cap (CN-EUR FR0013266277; fund inception 2017-08-07)",
+    "country": "France",
+    "style": "European growth micro caps at reasonable valuation + M&A targets; vs MSCI Europe Micro Cap NR Hedged",
+    "capScope": "Micro-cap",
+    "website": "https://am.oddo-bhf.com/fr-en/professional-investor/funds/oddo-bhf-active-micro-cap-cr-eur/",
+    "lettersUrl": "https://am.oddo-bhf.com/fr-en/download-document/21689",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1 yr to 2026-09-30",
+      "value": "7.7% in EUR terms (USD-terms 4.2% derived)",
+      "basis": "Net annual performance (12-months rolling) CN-EUR, own monthly factsheet 30 Sep 2026; benchmark 6.6%",
+      "currency": "EUR (USD-terms derived: EUR/USD 1.1741@2025-09-30 to 1.1355@2026-09-30, ECB/frankfurter)",
+      "source": "https://am.oddo-bhf.com/fr-en/download-document/21689"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://am.oddo-bhf.com/app/plugins/oddo-bhf-am-dispatch//assets/img/logo-oddo-bhf-am.webp",
+    "imageSource": "https://am.oddo-bhf.com/fr-en/professional-investor/funds/oddo-bhf-active-micro-cap-cr-eur/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "odin-forvaltning-odin-micro-cap-a-sek",
+    "manager": "ODIN Forvaltning (ODIN Micro Cap A SEK)",
+    "fund": "Swedish-registered fund (Norwegian manager)",
+    "country": "Sweden/Norway",
+    "style": "dedicated Micro Cap fund (own name), min investment SEK 5m, since 2023",
+    "capScope": "Micro-cap",
+    "website": "https://odinfonder.se/fond/odin-micro-cap-a-sek/",
+    "lettersUrl": "https://odinfonder.se/fond/odin-micro-cap-a-sek/",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-10-19",
+      "value": "-9.27%",
+      "basis": "total return, in SEK terms; USD-terms (derived from ECB ref FX): -14.4% (USD/SEK 9.417 2025-09-30 to 9.9789 2026-09-30)",
+      "currency": "SEK; USD-terms derived from ECB ref FX (rates+dates in col S)",
+      "source": "https://odinfonder.se/fond/odin-micro-cap-a-sek/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://odinfonder.se/wp-content/themes/odin/media/touch/152.png",
+    "imageSource": "https://odinfonder.se/",
+    "imageStatus": "pending"
   },
   {
     "id": "odyssean-investment-trust-lon-oit",
@@ -423,8 +1491,17 @@
     "lettersUrl": "https://www.oitplc.com/wp-content/uploads/2026/10/OIT-Factsheet-September-2026-v2.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "41.70%",
+      "basis": "NAV total return, in GBP terms",
+      "currency": "GBP; USD-terms 1yr 40.05% (derived, ECB ref GBP/USD 1.3443 @2025-09-30 to 1.3286 @2026-09-30)",
+      "source": "https://www.oitplc.com/wp-content/uploads/2026/10/OIT-Factsheet-September-2026-v2.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.oitplc.com/wp-content/themes/odyssean-theme/public/images/odyssean_capital_logo.0d8e58.svg",
+    "imageSource": "https://www.oitplc.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "paradice-investment-management",
@@ -437,8 +1514,72 @@
     "lettersUrl": "https://paradice.com/au/funds/",
     "socials": [],
     "dateAdded": "2026-10-17",
+    "returns": {
+      "period": "1 yr to 8/31/26",
+      "value": "13.11%",
+      "basis": "net (Class A; 3M 2.45%)",
+      "currency": "AUD (in AUD terms; USD-terms 24.14% derived: ECB ref FX 0.65256 8/29/25 -> 0.7162 8/31/26)",
+      "source": "https://paradice.com/au/funds/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://paradice.com/wp-content/uploads/Paradice-Investment-Management-Logo_CMYK-White-Gold_RGB_FIN.svg",
+    "imageSource": "https://paradice.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "paradigm-capital-management-paradigm-micro-cap-fund-pvivx",
+    "manager": "Paradigm Capital Management (Paradigm Micro-Cap Fund, PVIVX)",
+    "fund": "Open-end mutual fund (US 40 Act)",
+    "country": "US",
+    "style": "true micro-cap exposure, >=80% US micro-caps within Russell Microcap range (own mandate)",
+    "capScope": "Micro-cap",
+    "website": "https://www.paradigmcapital.com/",
+    "lettersUrl": "https://www.paradigmcapital.com/wp-content/uploads/2026/08/Micro-Cap-Fund-Retail-FS-06-30-26.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1yr to 2026-06-30",
+      "value": "51.81%",
+      "basis": "average annual total net return (PVIVX), in USD terms",
+      "currency": "USD (native)",
+      "source": "https://www.paradigmcapital.com/wp-content/uploads/2026/08/Micro-Cap-Fund-Retail-FS-06-30-26.pdf"
+    },
+    "returnsStatus": "sourced",
+    "imageSource": "https://www.paradigmcapital.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "pareto-asset-management-pareto-micro-cap-a",
+    "manager": "Pareto Asset Management (Pareto Micro Cap A)",
+    "fund": "Swedish specialfond (monthly dealing)",
+    "country": "Sweden",
+    "style": "investerar i Micro Cap-bolag (own mandate); profitable growth, strong balance sheets",
+    "capScope": "Micro-cap",
+    "website": "https://www.paretoam.se/",
+    "lettersUrl": "https://storage.mfn.se/07961094-b75b-4674-94b4-c9ef36a99fae/manadsrapport-pareto-micro-cap-a.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "imageSource": "https://www.paretoam.se/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "pendal-microcap-opportunities-fund",
+    "manager": "Pendal (MicroCap Opportunities Fund)",
+    "fund": "Australian managed fund (ARSN 118 585 354)",
+    "country": "Australia",
+    "style": "40-60 ASX/NZX micro-caps generally under $250m at entry (own mandate)",
+    "capScope": "Micro-cap",
+    "website": "https://pendalgroup.com/products/pendal-microcap-opportunities-fund",
+    "lettersUrl": "https://pendalgroup.com/products/pendal-microcap-opportunities-fund",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending",
+    "logoUrl": "https://pendalgroup.com/wp-content/uploads/2022/09/cropped-logopendal-192x192.jpg",
+    "imageSource": "https://pendalgroup.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "perpetual-perpetual-pure-microcap-fund",
@@ -446,13 +1587,117 @@
     "fund": "Australian managed fund",
     "country": "Australia",
     "style": "Quality Australian microcaps (sub-$300m market cap on acquisition)",
-    "capScope": "ASX microcap",
+    "capScope": "Micro-cap",
     "website": "https://www.perpetual.com.au/funds/perpetual-pure-microcap-fund/",
     "lettersUrl": "https://www.perpetual.com.au/4a75b0/globalassets/_au-site-media/01-documents/01-asset-management/01-fund-resources/fund-profiles/722_pfp.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-08-31",
+      "value": "3.09%",
+      "basis": "net (Class A), in AUD terms",
+      "currency": "AUD; USD-terms 1yr 13.14% (derived, ECB ref AUD/USD 0.65256 @2025-08-29 to 0.71620 @2026-08-31)",
+      "source": "https://www.perpetual.com.au/4a75b0/globalassets/_au-site-media/01-documents/01-asset-management/01-fund-resources/fund-profiles/722_pfp.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.perpetual.com.au/49186f/globalassets/_au-site-media/02-images/05-logos/asset-management/logos/perpetual_logo_positive_dark_blue_rgb.svg?width=182&height=65&mode=crop&ranchor=center&quality=80",
+    "imageSource": "https://www.perpetual.com.au/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "perpetual-pure-microcap-fund",
+    "manager": "Perpetual (Pure Microcap Fund)",
+    "fund": "Australian managed fund",
+    "country": "Australia",
+    "style": "Pure Microcap Fund (own name), Australian shares 70-100%",
+    "capScope": "Micro-cap",
+    "website": "https://www.perpetual.com.au/funds/perpetual-pure-microcap-fund/",
+    "lettersUrl": "https://www.perpetual.com.au/funds/perpetual-pure-microcap-fund/",
+    "socials": [],
+    "dateAdded": "2026-10-20",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "logoUrl": "https://www.perpetual.com.au/49186f/globalassets/_au-site-media/02-images/05-logos/asset-management/logos/perpetual_logo_positive_dark_blue_rgb.svg",
+    "imageSource": "https://www.perpetual.com.au/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "perritt-capital-management-perritt-microcap-opportunities-fund-prcgx",
+    "manager": "Perritt Capital Management (Perritt MicroCap Opportunities Fund, PRCGX)",
+    "fund": "Open-end mutual fund (US 40 Act)",
+    "country": "US",
+    "style": "microcap value/growth blend (own fund name; Russell Microcap benchmark)",
+    "capScope": "Micro-cap",
+    "website": "https://www.perrittcap.com/funds/microcap-opportunities-fund/",
+    "lettersUrl": "https://www.perrittcap.com/funds/microcap-opportunities-fund/performance/",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-01-31",
+      "value": "16.95%",
+      "basis": "average annual total return net of fees (PRCGX), in USD terms",
+      "currency": "USD (native)",
+      "source": "https://www.perrittcap.com/funds/microcap-opportunities-fund/performance/"
+    },
+    "returnsStatus": "sourced",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "pgim-quantitative-solutions-international-micro-cap-equity-composite",
+    "manager": "PGIM Quantitative Solutions (International Micro Cap Equity composite)",
+    "fund": "International Micro Cap Equity composite",
+    "country": "United States",
+    "style": "Systematic multi-factor 'pure' international micro-cap; benchmark MSCI World ex USA Micro Cap Index",
+    "capScope": "Micro-cap",
+    "website": "https://www.pgim.com/us/en",
+    "lettersUrl": "https://www.pgim.com/us/en",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": null,
+    "returnsStatus": "pending",
+    "logoUrl": "https://www.pgim.com/content/dam/pgim/us/en/pgim-center/active/graphical-elements/logos/pgim-dark-new.svg",
+    "imageSource": "https://www.pgim.com/us/en",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "pgim-quantitative-solutions-us-micro-cap-equity",
+    "manager": "PGIM Quantitative Solutions (US Micro Cap Equity)",
+    "fund": "Institutional strategy (US)",
+    "country": "US",
+    "style": "pure micro-cap multi-factor quant strategy, MSCI USA Micro Cap benchmark",
+    "capScope": "Micro-cap",
+    "website": "https://www.pgimquantitativesolutions.com/fact-sheet/us-micro-cap-equity",
+    "lettersUrl": "https://www.pgim.com/content/dam/pgim/us/en/pgim-quantitative-solutions/active/documents/fact-sheets/1q26-factcards/PQS-US%20Micro%20Cap%201Q26.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-03-31",
+      "value": "38.38%",
+      "basis": "composite total return net of fees, in USD terms",
+      "currency": "USD (native)",
+      "source": "https://www.pgim.com/content/dam/pgim/us/en/pgim-quantitative-solutions/active/documents/fact-sheets/1q26-factcards/PQS-US%20Micro%20Cap%201Q26.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.pgim.com/content/dam/pgim/us/en/pgim-center/active/graphical-elements/logos/pgim-dark-new.svg",
+    "imageSource": "https://www.pgim.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "prime-value-asset-management-prime-value-microcap-fund",
+    "manager": "Prime Value Asset Management (Prime Value Microcap Fund)",
+    "fund": "Prime Value Microcap Fund (structure launched 2025-07-01; strategy since 2015)",
+    "country": "Australia",
+    "style": "High-conviction AU/NZ microcaps generally under A$500m; ~5 company meetings/day; not speculative mining",
+    "capScope": "Micro-cap",
+    "website": "https://primevalue.com.au/",
+    "lettersUrl": "https://primevalue.com.au/wp-content/uploads/2026/08/Microcaps-Fund-04-Aug.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": null,
+    "returnsStatus": "pending",
+    "logoUrl": "https://primevalue.com.au/wp-content/uploads/2019/08/white_logo.png",
+    "imageSource": "https://primevalue.com.au/",
+    "imageStatus": "pending"
   },
   {
     "id": "punch-and-associates",
@@ -466,7 +1711,10 @@
     "socials": [],
     "dateAdded": "2026-10-17",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "logoUrl": "https://punchinvest.com/wp-content/uploads/2016/06/cropped-PA-Favicon-180x180.png",
+    "imageSource": "https://punchinvest.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "qv-investors",
@@ -481,22 +1729,84 @@
       "https://linkedin.com/company/qv-investors-inc-"
     ],
     "dateAdded": "2026-10-16",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "Q2 2026 (3M to 6/30/26)",
+      "value": "7.90%",
+      "basis": "gross",
+      "currency": "CAD (in CAD terms; USD-terms 5.62% derived: ECB ref FX 0.71764 3/31 -> 0.70247 6/30/26)",
+      "source": "https://qvinvestors.com/insights/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://qvinvestors.com/wp-content/uploads/2025/07/QV-Logo-D-1.png",
+    "imageSource": "https://qvinvestors.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "rakuten-investment-management-rakuten-japan-equity-micro-cap-fund-small-giant",
+    "manager": "Rakuten Investment Management (Rakuten Japan Equity Micro Cap Fund, 'Small Giant')",
+    "fund": "Rakuten Japan Equity Micro Cap Fund (Small Giant)",
+    "country": "Japan",
+    "style": "Japanese micro-cap equities (mkt cap <= JPY50bn at purchase); ~50 bottom-up stocks; since Jun 2020",
+    "capScope": "Micro-cap",
+    "website": "https://www.rakuten-toushin.co.jp/fund/nav/rijmc/",
+    "lettersUrl": "https://www.rakuten-toushin.co.jp/fund/nav/rijmc/pdf/rijmc_M202609.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1 yr to 2026-09-30",
+      "value": "24.1% in JPY terms (USD-terms 16.9% derived)",
+      "basis": "Total return, own monthly report as of 30 Sep 2026; 3-yr cum 56.5%; NAV 23,032 vs 10,000 at inception (Jun 2020)",
+      "currency": "JPY (USD-terms derived: JPY/USD 0.00676@2025-09-30 to 0.00637@2026-09-30, ECB/frankfurter)",
+      "source": "https://www.rakuten-toushin.co.jp/fund/nav/rijmc/pdf/rijmc_M202609.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.rakuten-toushin.co.jp/assets/img/pc/logo-rim.svg",
+    "imageSource": "https://www.rakuten-toushin.co.jp/fund/nav/rijmc/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ranger-investment-management-rim-micro-cap-composite",
+    "manager": "Ranger Investment Management (RIM Micro Cap Composite)",
+    "fund": "Institutional separate accounts (US)",
+    "country": "US",
+    "style": "long-only micro cap equity; Russell Microcap Growth benchmark; GIPS verified since 2002",
+    "capScope": "Micro-cap",
+    "website": "https://rangerinvestments.com/",
+    "lettersUrl": "https://rangerinvestments.com/uploads/resources/2026.08-RIM-Micro-Cap-Growth-Fact-Sheet.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-08-31",
+      "value": "12.60%",
+      "basis": "net of fees (GIPS composite), in USD terms",
+      "currency": "USD (native)",
+      "source": "https://rangerinvestments.com/uploads/resources/2026.08-RIM-Micro-Cap-Growth-Fact-Sheet.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://rangerinvestments.com/uploads/icons/20-logo.svg",
+    "imageSource": "https://rangerinvestments.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "rice-hall-james-and-associates-micro-cap-portfolio-rhjsx",
     "manager": "Rice Hall James & Associates (Micro Cap Portfolio, RHJSX)",
     "fund": "Open-end mutual fund (US 40 Act)",
     "country": "US",
-    "style": "STRICT MICROCAP: at least 80% net assets in Russell Microcap Index range at purchase; since 1994",
-    "capScope": "US micro-cap (Russell Microcap Index)",
+    "style": "at least 80% net assets in Russell Microcap Index range at purchase; since 1994",
+    "capScope": "Micro-cap",
     "website": "https://www.ricehalljames.com/strategies/micro-cap-equity/",
     "lettersUrl": "https://rhjfunds.com/wp-content/uploads/2025/10/RHJ-Micro-Cap-Equity-Fund-Factsheet-3Q25.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "1yr to 2025-09-30",
+      "value": "7.87%",
+      "basis": "total return net of fees (RHJSX), in USD terms",
+      "currency": "USD (native)",
+      "source": "https://rhjfunds.com/wp-content/uploads/2025/10/RHJ-Micro-Cap-Equity-Fund-Factsheet-3Q25.pdf"
+    },
+    "returnsStatus": "sourced",
+    "imageStatus": "pending"
   },
   {
     "id": "rivemont-investments-rivemont-microcap-fund",
@@ -513,6 +1823,29 @@
     "returnsStatus": "pending"
   },
   {
+    "id": "river-global-investors-river-uk-micro-cap-limited",
+    "manager": "River Global Investors (River UK Micro Cap Limited)",
+    "fund": "River UK Micro Cap Limited (LON:RMMC, GG00BNDMJP11; launched 2014-12-02)",
+    "country": "United Kingdom (Guernsey)",
+    "style": "Guernsey closed-end; UK micro caps typically under GBP 100m free-float market cap at purchase",
+    "capScope": "Micro-cap",
+    "website": "https://www.liontrust.com/riverglobal/river-uk-micro-cap-limited",
+    "lettersUrl": "https://admin.river.global/wp-content/uploads/2026/04/UKMC-GG00BNDMJP11-UNIT-TRUST-River-UK-Micro-Cap-Limited-UK.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "YTD 2026 to 2026-03-31",
+      "value": "-9.4% in GBP terms (USD-terms -10.9% derived)",
+      "basis": "NAV total return, own factsheet 31 Mar 2026; since inception NAV +139.5% cum vs DNSCI +72.0%",
+      "currency": "GBP (USD-terms derived: GBP/USD 1.3466@2025-12-31 to 1.3242@2026-03-31, ECB/frankfurter)",
+      "source": "https://admin.river.global/wp-content/uploads/2026/04/UKMC-GG00BNDMJP11-UNIT-TRUST-River-UK-Micro-Cap-Limited-UK.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.liontrust.com/favicon.ico",
+    "imageSource": "https://admin.river.global/wp-content/uploads/2026/04/UKMC-GG00BNDMJP11-UNIT-TRUST-River-UK-Micro-Cap-Limited-UK.pdf",
+    "imageStatus": "pending"
+  },
+  {
     "id": "rockwood-strategic-plc-lon-rkw",
     "manager": "Rockwood Strategic plc (LON:RKW)",
     "fund": "UK listed investment trust",
@@ -523,8 +1856,70 @@
     "lettersUrl": "https://dtbjgrx62nat1.cloudfront.net/app/uploads/2026/07/Factsheet-Q2-2026-Final.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "12M to 2026-06-30",
+      "value": "7.30%",
+      "basis": "NAV total return, in GBP terms",
+      "currency": "GBP; USD-terms 12M 3.55% (derived, ECB ref GBP/USD 1.3700 @2025-06-30 to 1.3221 @2026-06-30)",
+      "source": "https://dtbjgrx62nat1.cloudfront.net/app/uploads/2026/07/Factsheet-Q2-2026-Final.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://dtbjgrx62nat1.cloudfront.net/app/uploads/2025/10/Rockwood-Strategic-v2.svg",
+    "imageSource": "https://www.rockwoodstrategic.co.uk/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "royce-investment-partners-royce-capital-fund-micro-cap-portfolio",
+    "manager": "Royce Investment Partners (Royce Capital Fund Micro-Cap Portfolio)",
+    "fund": "Royce Capital Fund Micro-Cap Portfolio (RCMCX, Investment Class)",
+    "country": "United States",
+    "style": "US micro-cap variable-annuity portfolio; PMs Stoeffel & Palen; 156 holdings; since Dec 1996",
+    "capScope": "Micro-cap",
+    "website": "https://www.royceinvest.com/funds/royce-capital-fund-micro-cap-portfolio/rcmcx",
+    "lettersUrl": "https://www.royceinvest.com/pdf/factsheets/rcm-isifs.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "royce-investment-partners-royce-micro-cap-fund-ryotx",
+    "manager": "Royce Investment Partners (Royce Micro-Cap Fund, RYOTX)",
+    "fund": "Open-end mutual fund (US 40 Act)",
+    "country": "US",
+    "style": "one of the oldest open-end micro-cap funds (own factsheet), core approach",
+    "capScope": "Micro-cap",
+    "website": "https://www.royceinvest.com/",
+    "lettersUrl": "https://www.royceinvest.com/pdf/factsheets/rmc-isifs.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-06-30",
+      "value": "67.21%",
+      "basis": "average annual total return, net of fees (RYOTX), in USD terms",
+      "currency": "USD (native)",
+      "source": "https://www.royceinvest.com/pdf/factsheets/rmc-isifs.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.royceinvest.com/assets/img/logo.svg",
+    "imageSource": "https://www.royceinvest.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "royce-investment-partners-royce-micro-cap-trust",
+    "manager": "Royce Investment Partners (Royce Micro-Cap Trust)",
+    "fund": "Royce Micro-Cap Trust (closed-end fund, NYSE: RMT)",
+    "country": "United States",
+    "style": "US micro-cap closed-end fund; PMs Stoeffel & Palen; avg mkt cap $1.13bn; since Dec 1993",
+    "capScope": "Micro-cap",
+    "website": "https://www.royceinvest.com/funds/royce-micro-cap-trust/",
+    "lettersUrl": "https://www.royceinvest.com/pdf/factsheets/rmt-cefs.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": null,
+    "returnsStatus": "pending",
+    "imageStatus": "pending"
   },
   {
     "id": "ryder-capital-ryder-capital-limited-asx-ryd",
@@ -537,8 +1932,17 @@
     "lettersUrl": "https://www.rydercapital.com.au/our-funds/ryd/monthly-nta",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "19.93%",
+      "basis": "total return (pre-tax NTA, fully diluted, divs reinvested), in AUD terms",
+      "currency": "AUD; USD-terms 1yr 26.40% (derived, ECB ref AUD/USD 0.66109 @2025-09-30 to 0.69675 @2026-09-30)",
+      "source": "https://www.rydercapital.com.au/our-funds/ryd/monthly-nta"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.rydercapital.com.au/ryder-logo-white-sm.png",
+    "imageSource": "https://www.rydercapital.com.au/",
+    "imageStatus": "pending"
   },
   {
     "id": "saber-capital-management",
@@ -551,8 +1955,55 @@
     "lettersUrl": "https://sabercapitalmgt.com/letters-and-notes/",
     "socials": [],
     "dateAdded": "2026-10-18",
+    "returns": {
+      "period": "H1 2025 (through 6/30/25)",
+      "value": "-1.19% (SCP); +0.62% (SCP II)",
+      "basis": "gross and net equal per own letter",
+      "currency": "USD",
+      "source": "https://sabercapitalmgt.com/letters-and-notes/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://sabercapitalmgt.com/wp-content/uploads/2019/03/Saber-Capital-Logo-1.png",
+    "imageSource": "https://www.sabercapitalmgt.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "schroders-schroder-isf-nordic-micro-cap",
+    "manager": "Schroders (Schroder ISF Nordic Micro Cap)",
+    "fund": "Schroder ISF Nordic Micro Cap (IZ Dis EUR; fund launch 2022-03-02)",
+    "country": "Luxembourg (Nordic equities)",
+    "style": "Nordic micro-sized equities; target outperformance of MSCI Nordic Micro Cap (Net TR) over 5-7 years",
+    "capScope": "Micro-cap",
+    "website": "https://www.schroders.com/en/nordics/professional/fund-centre-denmark/",
+    "lettersUrl": "https://api.schroders.com/document-store/SISF-Nordic-Micro-Cap-IZ-Dis-FMI-FIEN.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "YTD 2026 to 2026-09-30",
+      "value": "-4.8% in EUR terms (USD-terms -8.0% derived)",
+      "basis": "Net total return IZ Dis EUR, own factsheet 30.09.2026; target MSCI Nordic Micro Cap (Net TR) 0.8% YTD",
+      "currency": "EUR (USD-terms derived: EUR/USD 1.175@2025-12-31 to 1.1355@2026-09-30, ECB/frankfurter)",
+      "source": "https://api.schroders.com/document-store/SISF-Nordic-Micro-Cap-IZ-Dis-FMI-FIEN.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.schroders.com/favicon.ico",
+    "imageSource": "https://api.schroders.com/document-store/SISF-Nordic-Micro-Cap-IZ-Dis-FMI-FIEN.pdf",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sparx-asset-management-sparx-premium-japan-micro-cap-equity-fund-kachi-hakkutsu",
+    "manager": "SPARX Asset Management (SPARX Premium Japan Micro-Cap Equity Fund, 'Kachi Hakkutsu')",
+    "fund": "SPARX Premium Japan Ultra-Small Equity Fund (Value Discovery)",
+    "country": "Japan",
+    "style": "Japanese micro-cap equities; reference index MSCI Japan Micro Cap (div incl); since Sep 2015",
+    "capScope": "Micro-cap",
+    "website": "https://www.sparx.co.jp/mutual/prm.html",
+    "lettersUrl": "https://www.sparx.co.jp/mutual/prm.html",
+    "socials": [],
+    "dateAdded": "2026-10-20",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "imageStatus": "pending"
   },
   {
     "id": "spheria-asset-management-australian-microcap-fund",
@@ -560,13 +2011,22 @@
     "fund": "Australian managed fund",
     "country": "Australia",
     "style": "Microcap value with quality bias",
-    "capScope": "ASX microcap (S&P/ASX Emerging Companies universe)",
+    "capScope": "Micro-cap",
     "website": "https://spheria.com.au/funds/spheria-australian-microcap-fund/",
     "lettersUrl": "https://spheria.com.au/wp-content/uploads/Spheria-Australian-Microcap-Fund-Monthly-Update.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "-7.80%",
+      "basis": "net of fees/costs/taxes, in AUD terms",
+      "currency": "AUD; USD-terms 1yr -2.83% (derived, ECB ref AUD/USD 0.66109 @2025-09-30 to 0.69675 @2026-09-30)",
+      "source": "https://spheria.com.au/wp-content/uploads/Spheria-Australian-Microcap-Fund-Monthly-Update.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://spheria.com.au/wp-content/uploads/2021/06/Spheria-.svg",
+    "imageSource": "https://spheria.com.au/",
+    "imageStatus": "pending"
   },
   {
     "id": "stone-sentinel-capital",
@@ -579,8 +2039,15 @@
     "lettersUrl": "https://www.stonescap.com/letters",
     "socials": [],
     "dateAdded": "2026-10-16",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "YTD through 9/30/26",
+      "value": "25.40%",
+      "basis": "gross",
+      "currency": "USD",
+      "source": "https://www.stonescap.com/letters"
+    },
+    "returnsStatus": "sourced",
+    "imageStatus": "pending"
   },
   {
     "id": "strategic-equity-capital-plc-lon-sec-gresham-house",
@@ -593,8 +2060,35 @@
     "lettersUrl": "https://greshamhouse.com/wp-content/uploads/2026/10/Strategic-Equity-Capital-plc-factsheet-September-2026.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "9.40%",
+      "basis": "total return net of charges (FE Analytics on factsheet), in GBP terms",
+      "currency": "GBP; USD-terms 1yr 8.12% (derived, ECB ref GBP/USD 1.34430 @2025-09-30 to 1.32860 @2026-09-30)",
+      "source": "https://greshamhouse.com/wp-content/uploads/2026/10/Strategic-Equity-Capital-plc-factsheet-September-2026.pdf"
+    },
+    "returnsStatus": "sourced",
+    "imageUrl": "https://greshamhouse.com/wp-content/uploads/2019/10/Ken-Wotton-2023.jpg",
+    "logoUrl": "https://greshamhouse.com/wp-content/themes/gh2019/assets/images/Gresham_House_logo_positive.svg",
+    "imageSource": "https://greshamhouse.com/strategic-equity/public-equity/strategic-equity-capital-plc/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "swedbank-robur-microcap",
+    "manager": "Swedbank Robur (Microcap)",
+    "fund": "Swedish UCITS fund",
+    "country": "Sweden",
+    "style": "invests in the stock market's smallest companies (own report)",
+    "capScope": "Micro-cap",
+    "website": "https://www.swedbankrobur.se/",
+    "lettersUrl": "https://internetbank.swedbank.se/ConditionsEarchive/download?bankid=1111&id=WEBDOC-PRODE118108265",
+    "socials": [],
+    "dateAdded": "2026-10-19",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "logoUrl": "https://www.swedbankrobur.se/content/dam/global/brand/logotypes/swedbankroburse-logo-default.svg",
+    "imageSource": "https://www.swedbankrobur.se/",
+    "imageStatus": "pending"
   },
   {
     "id": "teton-advisors-teton-westwood-mighty-mites-fund-weimx",
@@ -607,8 +2101,17 @@
     "lettersUrl": "https://www.tetonadv.com/mutual-fund-performance/",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "1yr to 2026-06-30",
+      "value": "43.98%",
+      "basis": "net (mutual fund total return, Class I WEIMX), in USD",
+      "currency": "USD",
+      "source": "https://www.tetonadv.com/mutual-fund-performance/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.tetonadv.com/images/teton-logo-update.png",
+    "imageSource": "https://www.tetonadv.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "teviot-partners-vt-teviot-uk-smaller-companies-fund",
@@ -621,8 +2124,17 @@
     "lettersUrl": "https://www.teviotpartners.com/fund/",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "16.50%",
+      "basis": "total return after fees (Acc NAV), in GBP terms",
+      "currency": "GBP; USD-terms 1yr 15.14% (derived, ECB ref GBP/USD 1.34430 @2025-09-30 to 1.32860 @2026-09-30)",
+      "source": "https://www.teviotpartners.com/fund/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.teviotpartners.com/wp-content/uploads/2017/06/teviot-partners.png",
+    "imageSource": "https://www.teviotpartners.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "third-avenue-management-third-avenue-small-cap-value-fund-tascx",
@@ -635,8 +2147,17 @@
     "lettersUrl": "https://www.thirdave.com/shareholder-letters/small-cap-value-fund-q226",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "Q2 2026",
+      "value": "12.85%",
+      "basis": "net (Investor Class per own letter)",
+      "currency": "USD",
+      "source": "https://www.thirdave.com/shareholder-letters/small-cap-value-fund-q226"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://cdn.prod.website-files.com/649326275bfdeddb91c61d40/6493575006cc6ada97eb848a_Third-Ave-Logo-Long-CMYK.jpg",
+    "imageSource": "https://www.thirdave.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "thorney-investment-group-thorney-opportunities-asx-top",
@@ -649,8 +2170,40 @@
     "lettersUrl": "https://thorney.com.au/wp-content/uploads/documents/TOP/NTA%20Announcements/2026/261006-September-2026-Thorney-Opportunities-LTD-Net-Tangible-Asset-Backing.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "-4.88%",
+      "basis": "pre-tax NTA + dividends after accrued mgmt fees, in AUD terms",
+      "currency": "AUD; USD-terms 1yr 0.25% (derived, ECB ref AUD/USD 0.66109 @2025-09-30 to 0.69675 @2026-09-30)",
+      "source": "https://thorney.com.au/wp-content/uploads/documents/TOP/NTA%20Announcements/2026/261006-September-2026-Thorney-Opportunities-LTD-Net-Tangible-Asset-Backing.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://thorney.com.au/wp-content/uploads/2020/10/thorney-block-white-logo.png",
+    "imageSource": "https://thorney.com.au/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "trigono-capital-trigono-horizon-microcap-fif-fic-acoes-rl",
+    "manager": "Trígono Capital (Trígono Horizon Microcap FIF FIC Ações RL)",
+    "fund": "Trígono Horizon Microcap FIF FIC Ações RL",
+    "country": "Brazil",
+    "style": "Brazilian micro-cap equities long-only; benchmark B3 SMLL small-cap index; inception Sep 2021",
+    "capScope": "Micro-cap",
+    "website": "https://trigonocapital.com/fundos/trigono-horizon-microcap-fif-fic-acoes-rl",
+    "lettersUrl": "https://trigonocapital.com/fundos/trigono-horizon-microcap-fif-fic-acoes-rl",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1 yr to 2026-10-16",
+      "value": "40.05% in BRL terms (USD-terms 50.1% derived)",
+      "basis": "Total return per own fund page cota 16/10/2026; YTD 22.04%; since inception (Sep 2021) 35.26% vs SMLL -6.79%",
+      "currency": "BRL (USD-terms derived: BRL/USD 0.18355@2025-10-16 to 0.19674@2026-10-16, ECB/frankfurter)",
+      "source": "https://trigonocapital.com/fundos/trigono-horizon-microcap-fif-fic-acoes-rl"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://trigonocapital.com/wp-content/uploads/2024/06/logo-trigono.png",
+    "imageSource": "https://trigonocapital.com/fundos/trigono-horizon-microcap-fif-fic-acoes-rl",
+    "imageStatus": "pending"
   },
   {
     "id": "turtle-creek-asset-management",
@@ -663,8 +2216,33 @@
     "lettersUrl": "https://www.turtlecreek.ca/wp-content/uploads/2026/03/Turtle-Creeek-2025-Annual-Letter.pdf",
     "socials": [],
     "dateAdded": "2026-10-17",
+    "returns": {
+      "period": "CY2025",
+      "value": "-12.40%",
+      "basis": "as reported in 2025 annual letter",
+      "currency": "CAD (in CAD terms; USD-terms -7.94% derived: ECB ref FX 0.69501 12/31/24 -> 0.73036 12/31/25)",
+      "source": "https://www.turtlecreek.ca/wp-content/uploads/2026/03/Turtle-Creeek-2025-Annual-Letter.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.turtlecreek.ca/wp-content/themes/tcreek/images/svg/logo.svg",
+    "imageSource": "https://www.turtlecreek.ca/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ubs-asset-management-australia-ubs-microcap-fund",
+    "manager": "UBS Asset Management Australia (UBS Microcap Fund)",
+    "fund": "UBS Microcap Fund (APIR UBS0057AU; inception 2014-08-12)",
+    "country": "Australia",
+    "style": "35-65 Australian microcaps generally under A$250m at initial purchase; DCF-driven undervaluation",
+    "capScope": "Micro-cap",
+    "website": "https://www.ubs.com/au/en/assetmanagement/funds.html",
+    "lettersUrl": "https://www.ubs.com/au/en/assetmanagement/funds/all-funds-factsheets/_jcr_content/root/contentarea/mainpar/toplevelgrid_84289862/col_1/linklistreimagined/link_2110862034_copy_550426325.279184644.file/PS9jb250ZW50L2RhbS9hc3NldHMvYXNzZXQtbWFuYWdlbWVudC1yZWltYWdpbmVkL3N0YXRpYy9hdXN0cmFsaWEvZmFjdHNoZWV0cy91YnMtbWljcm9jYXAucGRm/ubs-microcap.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "imageSource": "https://www.ubs.com/au/en/assetmanagement/funds.html",
+    "imageStatus": "pending"
   },
   {
     "id": "urbana-corporation-tsx-urb-urb-a",
@@ -678,7 +2256,10 @@
     "socials": [],
     "dateAdded": "2026-10-19",
     "returns": null,
-    "returnsStatus": "pending"
+    "returnsStatus": "pending",
+    "logoUrl": "https://www.urbanacorp.com/ndgcnt/themes/ndg_s/assets/img/Urbana-Logo.png",
+    "imageSource": "https://www.urbanacorp.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "wam-microcap-wilson-asset-management",
@@ -691,8 +2272,17 @@
     "lettersUrl": "https://wilsonassetmanagement.com.au/lics/wam-microcap/",
     "socials": [],
     "dateAdded": "2026-10-18",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "Since inception p.a. (Jun 2017; page live 10/18/26)",
+      "value": "13.1% p.a.",
+      "basis": "portfolio performance, pre-fee (as reported on own page)",
+      "currency": "AUD (in AUD terms; USD-terms 11.91% p.a. approx derived: ECB ref FX 0.76843 6/30/17 -> 0.69675 9/30/26)",
+      "source": "https://wilsonassetmanagement.com.au/lics/wam-microcap/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://wilsonassetmanagement.com.au/favicon.ico",
+    "imageSource": "https://wilsonassetmanagement.com.au/lics/wam-microcap/",
+    "imageStatus": "pending"
   },
   {
     "id": "wasatch-global-investors",
@@ -700,26 +2290,67 @@
     "fund": "Wasatch Micro Cap Fund (WMICX)",
     "country": "United States (Salt Lake City)",
     "style": "Growth, fundamental bottom-up",
-    "capScope": "Micro cap",
+    "capScope": "Micro-cap",
     "website": "https://wasatchglobal.com/",
     "lettersUrl": "https://wasatchglobal.com/wasatch-micro-cap-fund-investor/",
     "socials": [],
     "dateAdded": "2026-10-18",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "Q2 2026",
+      "value": "27.41%",
+      "basis": "net (WMICX Investor Class)",
+      "currency": "USD",
+      "source": "https://wasatchglobal.com/wasatch-micro-cap-fund-investor/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://wasatchglobal.com/wp-content/themes/wasatch/assets/images/logo.png",
+    "imageSource": "https://wasatchglobal.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "wasatch-global-investors-micro-cap-fund-wmicx",
+    "manager": "Wasatch Global Investors (Micro Cap Fund, WMICX)",
+    "fund": "Open-end mutual fund (US 40 Act)",
+    "country": "US",
+    "style": "blend of high-growth and core-growth micro-cap stocks (own factsheet)",
+    "capScope": "Micro-cap",
+    "website": "https://wasatchglobal.com/",
+    "lettersUrl": "https://wasatchglobal.com/wp-content/uploads/strategy-and-fund-documents/Micro-Cap-Fund-Factsheet.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-06-30",
+      "value": "37.58%",
+      "basis": "average annual total return, net of fees (WMICX Investor), in USD terms",
+      "currency": "USD (native)",
+      "source": "https://wasatchglobal.com/wp-content/uploads/strategy-and-fund-documents/Micro-Cap-Fund-Factsheet.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://wasatchglobal.com/wp-content/themes/wasatch/assets/images/logo.png",
+    "imageSource": "https://wasatchglobal.com/",
+    "imageStatus": "pending"
   },
   {
     "id": "wasatch-global-investors-wasatch-micro-cap-value-fund-wamvx-wgmvx",
     "manager": "Wasatch Global Investors (Wasatch Micro Cap Value Fund, WAMVX/WGMVX)",
     "fund": "Open-end mutual fund (US 40 Act)",
     "country": "US",
-    "style": "STRICT MICROCAP: undervalued micro-cap companies; benchmark Russell Microcap Index",
-    "capScope": "US micro-cap (Russell Microcap Index)",
+    "style": "undervalued micro-cap companies; benchmark Russell Microcap Index",
+    "capScope": "Micro-cap",
     "website": "https://wasatchglobal.com/wasatch-micro-cap-value-fund-investor/",
     "lettersUrl": "https://wasatchglobal.com/wp-content/uploads/strategy-and-fund-documents/Micro-Cap-Value-Fund-Factsheet.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending"
+    "returns": {
+      "period": "1yr to 2026-06-30",
+      "value": "37.96%",
+      "basis": "average annual total return net of fees (WAMVX Investor), in USD terms",
+      "currency": "USD (native)",
+      "source": "https://wasatchglobal.com/wp-content/uploads/strategy-and-fund-documents/Micro-Cap-Value-Fund-Factsheet.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://wasatchglobal.com/wp-content/themes/wasatch/assets/images/logo.png",
+    "imageSource": "https://wasatchglobal.com/",
+    "imageStatus": "pending"
   }
 ]
