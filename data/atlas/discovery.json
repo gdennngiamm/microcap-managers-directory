@@ -933,6 +933,31 @@
     "imageStatus": "pending"
   },
   {
+    "id": "kennedy-capital-management",
+    "manager": "Kennedy Capital Management",
+    "fund": "Micro Cap Strategy",
+    "country": "United States (St. Louis)",
+    "style": "Fundamental value",
+    "capScope": "Micro-cap",
+    "website": "https://www.kennedycapital.com/",
+    "lettersUrl": "https://www.kennedycapital.com/category/micro-cap-commentaries/",
+    "socials": [
+      "https://www.linkedin.com/company/kennedy-capital-management"
+    ],
+    "dateAdded": "2026-10-17",
+    "returns": {
+      "period": "Q2 2026",
+      "value": "27.97%",
+      "basis": "net (gross 28.24%)",
+      "currency": "USD",
+      "source": "https://www.kennedycapital.com/category/micro-cap-commentaries/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://www.kennedycapital.com/media/logo.png",
+    "imageSource": "https://www.kennedycapital.com/",
+    "imageStatus": "pending"
+  },
+  {
     "id": "kennedy-capital-management-micro-cap-strategy",
     "manager": "Kennedy Capital Management (Micro Cap strategy)",
     "fund": "Institutional strategy (US)",
@@ -993,6 +1018,22 @@
     "returnsStatus": "pending",
     "logoUrl": "https://www.lannebo.se/favicon.svg",
     "imageSource": "https://www.lannebo.se/fonder/lannebo-sweden-micro-cap/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "liontrust-uk-micro-cap-fund-i-acc-gbp",
+    "manager": "Liontrust (UK Micro Cap Fund, I Acc GBP)",
+    "fund": "UK OEIC",
+    "country": "UK",
+    "style": "UK Micro Cap Fund (own name), Economic Advantage process, min 3% management ownership",
+    "capScope": "Micro-cap",
+    "website": "https://www.liontrust.com/funds/uk-micro-cap-fund",
+    "lettersUrl": "https://www2.liontrust.com/documents/uk-micro-cap-fund-factsheet-i-acc-gbp.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending",
+    "imageSource": "https://www.liontrust.com/",
     "imageStatus": "pending"
   },
   {
@@ -1564,6 +1605,23 @@
     "imageStatus": "pending"
   },
   {
+    "id": "perpetual-pure-microcap-fund",
+    "manager": "Perpetual (Pure Microcap Fund)",
+    "fund": "Australian managed fund",
+    "country": "Australia",
+    "style": "Pure Microcap Fund (own name), Australian shares 70-100%",
+    "capScope": "Micro-cap",
+    "website": "https://www.perpetual.com.au/funds/perpetual-pure-microcap-fund/",
+    "lettersUrl": "https://www.perpetual.com.au/funds/perpetual-pure-microcap-fund/",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": null,
+    "returnsStatus": "pending",
+    "logoUrl": "https://www.perpetual.com.au/49186f/globalassets/_au-site-media/02-images/05-logos/asset-management/logos/perpetual_logo_positive_dark_blue_rgb.svg",
+    "imageSource": "https://www.perpetual.com.au/",
+    "imageStatus": "pending"
+  },
+  {
     "id": "perritt-capital-management-perritt-microcap-opportunities-fund-prcgx",
     "manager": "Perritt Capital Management (Perritt MicroCap Opportunities Fund, PRCGX)",
     "fund": "Open-end mutual fund (US 40 Act)",
@@ -1751,6 +1809,20 @@
     "imageStatus": "pending"
   },
   {
+    "id": "rivemont-investments-rivemont-microcap-fund",
+    "manager": "Rivemont Investments (Rivemont MicroCap Fund)",
+    "fund": "Canadian mutual fund trust",
+    "country": "Canada",
+    "style": "Concentrated (up to 25) quality microcap growth",
+    "capScope": "North American micro/small-cap",
+    "website": "https://rivemont.ca/",
+    "lettersUrl": "https://rivemont.ca/wp-content/uploads/2026/04/Rivemont-MicroCap-Fund-2026-03.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": null,
+    "returnsStatus": "pending"
+  },
+  {
     "id": "river-global-investors-river-uk-micro-cap-limited",
     "manager": "River Global Investors (River UK Micro Cap Limited)",
     "fund": "River UK Micro Cap Limited (LON:RMMC, GG00BNDMJP11; launched 2014-12-02)",
@@ -1931,6 +2003,29 @@
     "dateAdded": "2026-10-20",
     "returns": null,
     "returnsStatus": "pending",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "spheria-asset-management-australian-microcap-fund",
+    "manager": "Spheria Asset Management (Australian Microcap Fund)",
+    "fund": "Australian managed fund",
+    "country": "Australia",
+    "style": "Microcap value with quality bias",
+    "capScope": "Micro-cap",
+    "website": "https://spheria.com.au/funds/spheria-australian-microcap-fund/",
+    "lettersUrl": "https://spheria.com.au/wp-content/uploads/Spheria-Australian-Microcap-Fund-Monthly-Update.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-19",
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "-7.80%",
+      "basis": "net of fees/costs/taxes, in AUD terms",
+      "currency": "AUD; USD-terms 1yr -2.83% (derived, ECB ref AUD/USD 0.66109 @2025-09-30 to 0.69675 @2026-09-30)",
+      "source": "https://spheria.com.au/wp-content/uploads/Spheria-Australian-Microcap-Fund-Monthly-Update.pdf"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://spheria.com.au/wp-content/uploads/2021/06/Spheria-.svg",
+    "imageSource": "https://spheria.com.au/",
     "imageStatus": "pending"
   },
   {
@@ -2187,6 +2282,29 @@
     "returnsStatus": "sourced",
     "logoUrl": "https://wilsonassetmanagement.com.au/favicon.ico",
     "imageSource": "https://wilsonassetmanagement.com.au/lics/wam-microcap/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "wasatch-global-investors",
+    "manager": "Wasatch Global Investors",
+    "fund": "Wasatch Micro Cap Fund (WMICX)",
+    "country": "United States (Salt Lake City)",
+    "style": "Growth, fundamental bottom-up",
+    "capScope": "Micro-cap",
+    "website": "https://wasatchglobal.com/",
+    "lettersUrl": "https://wasatchglobal.com/wasatch-micro-cap-fund-investor/",
+    "socials": [],
+    "dateAdded": "2026-10-18",
+    "returns": {
+      "period": "Q2 2026",
+      "value": "27.41%",
+      "basis": "net (WMICX Investor Class)",
+      "currency": "USD",
+      "source": "https://wasatchglobal.com/wasatch-micro-cap-fund-investor/"
+    },
+    "returnsStatus": "sourced",
+    "logoUrl": "https://wasatchglobal.com/wp-content/themes/wasatch/assets/images/logo.png",
+    "imageSource": "https://wasatchglobal.com/",
     "imageStatus": "pending"
   },
   {
