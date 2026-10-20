@@ -63,6 +63,27 @@
     "imageStatus": "pending"
   },
   {
+    "id": "allianz-global-investors-allianz-european-micro-cap-it-eur",
+    "manager": "Allianz Global Investors (Allianz European Micro Cap IT EUR)",
+    "fund": "Allianz European Micro Cap IT (EUR), LU0594339896",
+    "country": "Luxembourg (UCITS)",
+    "style": "European micro-cap equities incl Turkey/Russia; vs MSCI Europe Micro Cap NR EUR; BVI method",
+    "capScope": "Micro-cap",
+    "website": "https://lu.allianzgi.com/en-lu/pro/our-funds/funds/list/allianz-european-micro-cap-it-eur",
+    "lettersUrl": "https://lu.allianzgi.com/en-lu/pro/our-funds/funds/list/allianz-european-micro-cap-it-eur",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1 yr to 2026-09-30",
+      "value": "11.62% in EUR terms (USD-terms 7.9% derived)",
+      "basis": "Rolling 1-year return (BVI method, no initial fee), own fund centre as at 30 Sep 2026; benchmark 7.86%",
+      "currency": "EUR (USD-terms derived: EUR/USD 1.1741@2025-09-30 to 1.1355@2026-09-30, ECB/frankfurter)",
+      "source": "https://lu.allianzgi.com/en-lu/pro/our-funds/funds/list/allianz-european-micro-cap-it-eur"
+    },
+    "returnsStatus": "sourced",
+    "imageStatus": "pending"
+  },
+  {
     "id": "ambit-asset-management-ambit-micro-marvels-portfolio",
     "manager": "Ambit Asset Management (Ambit Micro Marvels Portfolio)",
     "fund": "Ambit Micro Marvels Portfolio (PMS)",
@@ -171,6 +192,27 @@
     "returnsStatus": "sourced",
     "logoUrl": "https://www.berenberg.de/icons/favicon.svg",
     "imageSource": "https://www.berenberg.de/funds/berenberg-european-micro-cap/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "berenberg-berenberg-international-micro-cap-m-a",
+    "manager": "Berenberg (Berenberg International Micro Cap M A)",
+    "fund": "Berenberg International Micro Cap M A (LU2347482890)",
+    "country": "Germany (Lux UCITS)",
+    "style": "International (ex-Europe) micro-cap growth stocks up to EUR 1bn mkt cap; vs MSCI World ex Europe Micro Cap",
+    "capScope": "Micro-cap",
+    "website": "https://fondsfinder.universal-investment.com/en/de/Funds/LU2347482890/",
+    "lettersUrl": "https://fondsfinder.universal-investment.com/api/v1/DE/LU2347482890/document/Factsheet/en",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1 yr to 2026-05-26",
+      "value": "40.8% in EUR terms (USD-terms 43.9% derived)",
+      "basis": "Own factsheet as of 26 May 2026; 3Y 13.2% pa; since inception (Nov 2021) 0.6% pa; benchmark 1Y 38.2%",
+      "currency": "EUR (USD-terms derived: EUR/USD 1.1381@2025-05-26 to 1.1634@2026-05-26, ECB/frankfurter)",
+      "source": "https://fondsfinder.universal-investment.com/api/v1/DE/LU2347482890/document/Factsheet/en"
+    },
+    "returnsStatus": "sourced",
     "imageStatus": "pending"
   },
   {
@@ -546,6 +588,27 @@
     "imageStatus": "pending"
   },
   {
+    "id": "driehaus-capital-management-driehaus-us-micro-cap-equity-fund-ucits",
+    "manager": "Driehaus Capital Management (Driehaus US Micro Cap Equity Fund, UCITS)",
+    "fund": "Driehaus US Micro Cap Equity Fund A USD Acc (IE00BDB52V94)",
+    "country": "Ireland (UCITS)",
+    "style": "US micro-cap equity UCITS (sub-advisor Driehaus, Chicago); 125 holdings; launched Dec 2016",
+    "capScope": "Micro-cap",
+    "website": "https://www.heptagon-capital.com/funds/heptagon-fund-icav-driehaus-us-micro-cap-equity-fund-a-usd-acc/",
+    "lettersUrl": "https://www.heptagon-capital.com/funds/heptagon-fund-icav-driehaus-us-micro-cap-equity-fund-a-usd-acc/",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1 yr to 2026-07-31",
+      "value": "54.5% in USD terms",
+      "basis": "Own July 2026 monthly report; 3y 24.3% pa; 5y 9.7% pa; primary benchmark 1yr 31.4%",
+      "currency": "USD (native)",
+      "source": "https://www.heptagon-capital.com/funds/heptagon-fund-icav-driehaus-us-micro-cap-equity-fund-a-usd-acc/"
+    },
+    "returnsStatus": "sourced",
+    "imageStatus": "pending"
+  },
+  {
     "id": "driehaus-micro-cap-growth-fund-dmcrx",
     "manager": "Driehaus Micro Cap Growth Fund (DMCRX)",
     "fund": "Mutual fund",
@@ -688,6 +751,27 @@
     },
     "returnsStatus": "sourced",
     "imageSource": "https://finserve.se/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "first-trust-dow-jones-select-microcap-index-fund",
+    "manager": "First Trust (Dow Jones Select MicroCap Index Fund)",
+    "fund": "First Trust Dow Jones Select MicroCap Index Fund (NYSE Arca: FDM)",
+    "country": "United States",
+    "style": "US micro-cap index ETF tracking Dow Jones Select MicroCap Index (bottom two NYSE deciles); since Sep 2005",
+    "capScope": "Micro-cap",
+    "website": "https://www.ftportfolios.com/etf/FDM",
+    "lettersUrl": "https://www.ftportfolios.com/fund-documents/etf/FDM",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1 yr to 2026-09-30",
+      "value": "17.64% in USD terms",
+      "basis": "Average annual total return (NAV), own factsheet as of 30 Sep 2026; market price 1-yr 17.54%; YTD 11.18% not annualized",
+      "currency": "USD (native)",
+      "source": "https://www.ftportfolios.com/fund-documents/etf/FDM"
+    },
+    "returnsStatus": "sourced",
     "imageStatus": "pending"
   },
   {
@@ -1122,6 +1206,27 @@
       "basis": "Net total return R share, own monthly report 31 Aug 2026; YTD 6.6%; 3-yr 30.3% cum; since inception 189.3% cum (8.7% pa)",
       "currency": "EUR (USD-terms derived: EUR/USD 1.1658@2025-08-29 to 1.1596@2026-08-31, ECB/frankfurter)",
       "source": "https://ruv-lu.tools.factsheetslive.com/portfolioplaner/product/LU1303940784/documents/Factsheet/"
+    },
+    "returnsStatus": "sourced",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "mandarine-gestion-mandarine-global-microcap-r",
+    "manager": "Mandarine Gestion (Mandarine Global Microcap R)",
+    "fund": "Mandarine Global Microcap R (LU1329694266)",
+    "country": "France (Lux UCITS)",
+    "style": "Global micro-cap equities; quant filter + fundamental analysis; vs MSCI World Microcap NR EUR; since 2016",
+    "capScope": "Micro-cap",
+    "website": "https://www.mandarine-gestion.com/FR/fr/docs/funds/mandarine-global-microcap/AR",
+    "lettersUrl": "https://www.mandarine-gestion.com/FR/fr/docs/funds/mandarine-global-microcap/LU1329694266/MR",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": {
+      "period": "1 yr to 2026-09-30",
+      "value": "10.8% in EUR terms (USD-terms 7.2% derived)",
+      "basis": "Net of fees, own monthly report 30 Sep 2026 (read visually); 3y 15.0% pa; since creation 8.8% pa; benchmark 1y 17.3%",
+      "currency": "EUR (USD-terms derived: EUR/USD 1.1741@2025-09-30 to 1.1355@2026-09-30, ECB/frankfurter)",
+      "source": "https://www.mandarine-gestion.com/FR/fr/docs/funds/mandarine-global-microcap/LU1329694266/MR"
     },
     "returnsStatus": "sourced",
     "imageStatus": "pending"
@@ -1965,6 +2070,21 @@
     "returnsStatus": "sourced",
     "logoUrl": "https://sabercapitalmgt.com/wp-content/uploads/2019/03/Saber-Capital-Logo-1.png",
     "imageSource": "https://www.sabercapitalmgt.com/",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sbi-okasan-asset-management-us-microcap-equity-fund",
+    "manager": "SBI Okasan Asset Management (US Microcap Equity Fund)",
+    "fund": "US Microcap Equity Fund (米国マイクロキャップ株式ファンド), JP90C000RKX9",
+    "country": "Japan",
+    "style": "US micro-cap equities fund domiciled in Japan; reference index Russell Microcap (div incl, JPY); since Mar 2025",
+    "capScope": "Micro-cap",
+    "website": "https://www.sbiokasan-am.co.jp/fund/553384/",
+    "lettersUrl": "https://www.sbiokasan-am.co.jp/data/fund_pdf/monthly/m553384_20260930.pdf",
+    "socials": [],
+    "dateAdded": "2026-10-20",
+    "returns": null,
+    "returnsStatus": "pending",
     "imageStatus": "pending"
   },
   {
