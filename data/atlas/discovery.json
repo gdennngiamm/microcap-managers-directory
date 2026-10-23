@@ -56,8 +56,14 @@
     "lettersUrl": "https://acuitasfunds.com/wp-content/uploads/2026/08/Acuitas-US-Microcap-Fund-Fact-Sheet-063026-REVISED-081226.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-06-30",
+      "value": "55.05%",
+      "basis": "AFMCX total return, own factsheet as of 30 Jun 2026; 3-yr p.a. 20.92%, 10-yr p.a. 12.49%; benchmark Russell Microcap Index 58.55% 1-yr",
+      "currency": "USD (native)",
+      "source": "https://acuitasfunds.com/wp-content/uploads/2026/08/Acuitas-US-Microcap-Fund-Fact-Sheet-063026-REVISED-081226.pdf"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://acuitasinvestments.com/wp-content/uploads/2020/01/cropped-logonew-1_17bc04adb60d54339a5954242af85be0-1.png",
     "imageSource": "https://acuitasinvestments.com/",
     "imageStatus": "pending"
@@ -94,8 +100,14 @@
     "lettersUrl": "https://www.ambit.co/wp-content/uploads/2026/05/Ambit-Micro-Marvels-Portfolio-Factsheet-_Oct_26.pdf",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "FY27TD (Apr-Sep 2026) to 2026-09-30",
+      "value": "42.4% in INR terms (USD-terms 39.3% derived)",
+      "basis": "FY27TD six-month return (Apr 1 - Sep 30 2026), net of all fees, own October 2026 factsheet; BSE 500 TRI 8.1%; Nifty Smallcap 250 TRI 25.1%",
+      "currency": "INR (USD-terms derived: INR/USD 0.01066@2026-03-31 to 0.01043@2026-09-30, ECB/frankfurter)",
+      "source": "https://www.ambit.co/wp-content/uploads/2026/05/Ambit-Micro-Marvels-Portfolio-Factsheet-_Oct_26.pdf"
+    },
+    "returnsStatus": "sourced",
     "imageStatus": "pending"
   },
   {
@@ -109,8 +121,14 @@
     "lettersUrl": "https://www.amundi.fr/fr_instit/dl/doc/monthly-factsheet/FR0011223569/FRA/FRA/INSTITUTIONNEL/AMUNDI",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-09-30",
+      "value": "5.02% in EUR terms (USD-terms 1.6% derived)",
+      "basis": "Net total return I share, own monthly factsheet 30 Sep 2026; YTD 3.60%; 3-yr cum 22.29%; since inception (Aug 2012) cum 302.02%",
+      "currency": "EUR (USD-terms derived: EUR/USD 1.1741@2025-09-30 to 1.1355@2026-09-30, ECB/frankfurter)",
+      "source": "https://www.amundi.fr/fr_instit/dl/doc/monthly-factsheet/FR0011223569/FRA/FRA/INSTITUTIONNEL/AMUNDI"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://static.amundi.com/web-assets/awf-assets/amundi-retail/logo.png",
     "imageSource": "https://www.amundi.fr/",
     "imageStatus": "pending"
@@ -148,8 +166,14 @@
     "lettersUrl": "https://www.ausbil.com.au/getmedia/84540867-17b8-43ee-9ecb-596bdbe50c03/2603-Ausbil-MicroCap-Product-Report_AAP0007AU_1.pdf",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-03-31",
+      "value": "16.80% in AUD terms (USD-terms 28.8% derived)",
+      "basis": "Net total return, own quarterly product report as at 31 Mar 2026; 3-yr 19.35% pa; since inception 19.72% pa; benchmark S&P/ASX Emerging Companies Accum 34.16%",
+      "currency": "AUD (USD-terms derived: AUD/USD 0.62449@2025-03-31 to 0.68879@2026-03-31, ECB/frankfurter)",
+      "source": "https://www.ausbil.com.au/getmedia/84540867-17b8-43ee-9ecb-596bdbe50c03/2603-Ausbil-MicroCap-Product-Report_AAP0007AU_1.pdf"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://www.ausbil.com.au/getmedia/b96667f0-ecb9-4ca1-ba06-357f34b446ef/company-logo.svg?ext=.svg",
     "imageSource": "https://www.ausbil.com.au/",
     "imageStatus": "pending"
@@ -165,8 +189,14 @@
     "lettersUrl": "https://www.bayview.co.jp/invest/fund_info/us_microcap/pdf/monthly_report.pdf",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-09-30",
+      "value": "44.6% in JPY terms (USD-terms 36.3% derived)",
+      "basis": "Total return (pre-tax distributions reinvested), own monthly report as of 30 Sep 2026; 3-yr cum 101.0%; since inception (Feb 2019) cum 221.6%",
+      "currency": "JPY (USD-terms derived: JPY/USD 0.00676@2025-09-30 to 0.00637@2026-09-30, ECB/frankfurter)",
+      "source": "https://www.bayview.co.jp/invest/fund_info/us_microcap/pdf/monthly_report.pdf"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://www.bayview.co.jp/common/img/logo.png",
     "imageSource": "https://www.bayview.co.jp/",
     "imageStatus": "pending"
@@ -250,8 +280,14 @@
     "lettersUrl": "https://www.ishares.com/us/literature/fact-sheet/iwc-ishares-micro-cap-etf-fund-fact-sheet-en-us.pdf",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-06-30",
+      "value": "58.33% in USD terms",
+      "basis": "Annualized NAV total return, own fact sheet as of 30 Jun 2026; market price 1-yr 58.51%; benchmark Russell Microcap 58.55%",
+      "currency": "USD (native)",
+      "source": "https://www.ishares.com/us/literature/fact-sheet/iwc-ishares-micro-cap-etf-fund-fact-sheet-en-us.pdf"
+    },
+    "returnsStatus": "sourced",
     "imageStatus": "pending"
   },
   {
@@ -334,8 +370,14 @@
     "lettersUrl": "https://www.carnegiefonder.se/fonder/micro-cap/",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "4.42%",
+      "basis": "total return net of fees, in SEK terms; USD-terms (derived from ECB ref FX): -1.5% (USD/SEK 9.417 2025-09-30 to 9.9789 2026-09-30)",
+      "currency": "SEK; USD-terms derived from ECB ref FX (rates+dates in col S)",
+      "source": "https://www.carnegiefonder.se/fonder/micro-cap/"
+    },
+    "returnsStatus": "sourced",
     "imageSource": "https://www.carnegiefonder.se/",
     "imageStatus": "pending"
   },
@@ -513,8 +555,14 @@
     "lettersUrl": "https://www.csmckee.com/wp-content/uploads/2026/04/1Q26-Micro-Cap-Value-Plus-Fact-Sheet.pdf",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-03-31",
+      "value": "32.54%",
+      "basis": "Net total return, own Q1 2026 factsheet as of 31 Mar 2026; 3-yr 13.54%, 10-yr 9.06% p.a.; benchmarks Russell Microcap Value + Russell 2000 Value",
+      "currency": "USD (native)",
+      "source": "https://www.csmckee.com/wp-content/uploads/2026/04/1Q26-Micro-Cap-Value-Plus-Fact-Sheet.pdf"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://www.csmckee.com/wp-content/uploads/2025/04/CSMcKee_logo_transparent-web-e1745522078651.png",
     "imageSource": "https://www.csmckee.com/",
     "imageStatus": "pending"
@@ -687,8 +735,14 @@
     "lettersUrl": "https://www.essexinvest.com/wp-content/uploads/2026/05/Essex-Micro-Cap-Growth-Factsheet-1.pdf",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-06-30",
+      "value": "59.65%",
+      "basis": "Net annualized total return, own Q2 2026 factsheet as of 30 Jun 2026; 3-yr 27.11%, 10-yr 16.02%; benchmark Russell Micro Cap Growth 51.30%",
+      "currency": "USD (native)",
+      "source": "https://www.essexinvest.com/wp-content/uploads/2026/05/Essex-Micro-Cap-Growth-Factsheet-1.pdf"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://www.essexinvest.com/wp-content/themes/essex/assets/images/logo.png",
     "imageSource": "https://www.essexinvest.com/",
     "imageStatus": "pending"
@@ -785,8 +839,14 @@
     "lettersUrl": "https://documents.anevis-solutions.com/fondita/Fondita_European_Micro_Cap_B_EN_US_ultimo.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "10.84%",
+      "basis": "total return net of fees, in EUR terms; USD-terms (derived from ECB ref FX): +7.2% (EUR/USD 1.1741 2025-09-30 to 1.1355 2026-09-30)",
+      "currency": "EUR; USD-terms derived from ECB ref FX (rates+dates in col S)",
+      "source": "https://documents.anevis-solutions.com/fondita/Fondita_European_Micro_Cap_B_EN_US_ultimo.pdf"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://fondita.com/wp-content/uploads/2022/03/fondita-logo-header_02-1-1-1.png",
     "imageSource": "https://fondita.com/",
     "imageStatus": "pending"
@@ -802,8 +862,14 @@
     "lettersUrl": "https://documents.anevis-solutions.com/fondita/Fondita_Nordic_Micro_Cap_B_EN_US_ultimo.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "-0.04%",
+      "basis": "total return net of fees, in EUR terms; USD-terms (derived from ECB ref FX): -3.3% (EUR/USD 1.1741 2025-09-30 to 1.1355 2026-09-30)",
+      "currency": "EUR; USD-terms derived from ECB ref FX (rates+dates in col S)",
+      "source": "https://documents.anevis-solutions.com/fondita/Fondita_Nordic_Micro_Cap_B_EN_US_ultimo.pdf"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://fondita.com/wp-content/uploads/2022/03/fondita-logo-header_02-1-1-1.png",
     "imageSource": "https://fondita.com/",
     "imageStatus": "pending"
@@ -842,8 +908,14 @@
     "lettersUrl": "https://fullerthalerfunds.com/wp-content/uploads/2026/02/Factsheet_Web_FTBehavioralMicroCapEquityFund_4q25-1.pdf",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2025-12-31",
+      "value": "0.3% in USD terms",
+      "basis": "Annualized trailing return, own 4Q25 factsheet as of 31 Dec 2025; 3-yr 5.62% ann; since inception (Dec 2018) 6.36% ann; Russell Micro Cap TR USD 1-yr 22.98%",
+      "currency": "USD (native)",
+      "source": "https://fullerthalerfunds.com/wp-content/uploads/2026/02/Factsheet_Web_FTBehavioralMicroCapEquityFund_4q25-1.pdf"
+    },
+    "returnsStatus": "sourced",
     "imageStatus": "pending"
   },
   {
@@ -903,8 +975,14 @@
     "lettersUrl": "https://regdocs.blugiant.com/wp-content/uploads/2026/07/2Q26-Global-Micro_STAMPED.pdf",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-06-30",
+      "value": "1.51%",
+      "basis": "Cumulative total return, own Q2 2026 factsheet as of 30 Jun 2026; YTD 0.58%, 3-yr 8.87%, 10-yr 8.81% annualized; benchmark MSCI World Micro Cap 25.97%",
+      "currency": "USD (native)",
+      "source": "https://regdocs.blugiant.com/wp-content/uploads/2026/07/2Q26-Global-Micro_STAMPED.pdf"
+    },
+    "returnsStatus": "sourced",
     "imageStatus": "pending"
   },
   {
@@ -964,8 +1042,14 @@
     "lettersUrl": "https://www.vcm.com/",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-06-30",
+      "value": "55.58%",
+      "basis": "Net composite total return, own Q2 2026 fact sheet as of 30 Jun 2026; gross 57.15%; 3-yr net 25.91%; 10-yr net 13.45%; since inception net 13.06%; benchmark 63.88%",
+      "currency": "USD (native)",
+      "source": "https://www.vcm.com/"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://www.vcm.com/content/dam/vcm/franchises/Integrity.AM.Logo.png",
     "imageSource": "https://www.vcm.com/",
     "imageStatus": "pending"
@@ -1098,8 +1182,14 @@
     "lettersUrl": "https://www.lannebo.se/fonder/lannebo-sweden-micro-cap/",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "H1 2026",
+      "value": "0.6% in SEK terms (USD-terms -4.8% derived)",
+      "basis": "Total return share class A, own half-year report to 2026-06-30; benchmark Carnegie Small Cap Return Index Sweden -1.1% same period",
+      "currency": "SEK (USD-terms derived: USD/SEK 9.2098@2025-12-31 to 9.7363@2026-06-30, ECB/frankfurter)",
+      "source": "https://www.lannebo.se/fonder/lannebo-sweden-micro-cap/"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://www.lannebo.se/favicon.svg",
     "imageSource": "https://www.lannebo.se/fonder/lannebo-sweden-micro-cap/",
     "imageStatus": "pending"
@@ -1516,8 +1606,14 @@
     "lettersUrl": "https://www.ocfunds.com.au/_files/ugd/01bd19_77b1ce72a6a94249802a3fe208b381a5.pdf",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-09-30",
+      "value": "-10.3% in AUD terms (USD-terms -5.5% derived)",
+      "basis": "Total return after fees, own Q3 2026 Fund Update (30 Sep 2026); since inception 11.7% p.a. vs S&P/ASX Emerging Companies Accum Index 7.0% p.a.",
+      "currency": "AUD (USD-terms derived: AUD/USD 0.66109@2025-09-30 to 0.69675@2026-09-30, ECB/frankfurter)",
+      "source": "https://www.ocfunds.com.au/_files/ugd/01bd19_77b1ce72a6a94249802a3fe208b381a5.pdf"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://static.wixstatic.com/media/4ef974_f42344872c504e02b913883a7de2bf8d~mv2.png/v1/fill/w_136,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/OC-Logo-Blue-Grey.png",
     "imageSource": "https://www.ocfunds.com.au/micro-cap-fund",
     "imageStatus": "pending"
@@ -1533,8 +1629,14 @@
     "lettersUrl": "https://media.octopusinvestments.com/asset/c1c8da0f-0149-48d7-9ed0-ed14c5239ffb/FP-Octopus-UK-Micro-Cap-Growth-factsheet.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "17.30%",
+      "basis": "cumulative 1yr total return, net of fees (P Acc), in GBP terms; USD-terms (derived from ECB ref FX): +15.9% (GBP/USD 1.3443 2025-09-30 to 1.3286 2026-09-30)",
+      "currency": "GBP; USD-terms derived from ECB ref FX (rates+dates in col S)",
+      "source": "https://media.octopusinvestments.com/asset/c1c8da0f-0149-48d7-9ed0-ed14c5239ffb/FP-Octopus-UK-Micro-Cap-Growth-factsheet.pdf"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://octopusinvestments.com/wp-content/themes/investments-rebrand/dist/static/img/octopus-logo-oi-white.svg",
     "imageSource": "https://octopusinvestments.com/",
     "imageStatus": "pending"
@@ -1664,8 +1766,14 @@
     "lettersUrl": "https://storage.mfn.se/07961094-b75b-4674-94b4-c9ef36a99fae/manadsrapport-pareto-micro-cap-a.pdf",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "-2.50%",
+      "basis": "total return net of fees, in SEK terms; USD-terms (derived from ECB ref FX): -8.0% (USD/SEK 9.417 2025-09-30 to 9.9789 2026-09-30)",
+      "currency": "SEK; USD-terms derived from ECB ref FX (rates+dates in col S)",
+      "source": "https://storage.mfn.se/07961094-b75b-4674-94b4-c9ef36a99fae/manadsrapport-pareto-micro-cap-a.pdf"
+    },
+    "returnsStatus": "sourced",
     "imageSource": "https://www.paretoam.se/",
     "imageStatus": "pending"
   },
@@ -1680,8 +1788,14 @@
     "lettersUrl": "https://pendalgroup.com/products/pendal-microcap-opportunities-fund",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "1.60%",
+      "basis": "total return post-fee, in AUD terms; USD-terms (derived from ECB ref FX): +7.1% (AUD/USD 0.66109 2025-09-30 to 0.69675 2026-09-30)",
+      "currency": "AUD; USD-terms derived from ECB ref FX (rates+dates in col S)",
+      "source": "https://pendalgroup.com/products/pendal-microcap-opportunities-fund"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://pendalgroup.com/wp-content/uploads/2022/09/cropped-logopendal-192x192.jpg",
     "imageSource": "https://pendalgroup.com/",
     "imageStatus": "pending"
@@ -1758,8 +1872,14 @@
     "lettersUrl": "https://www.pgim.com/us/en",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-03-31",
+      "value": "36.77%",
+      "basis": "Net composite total return, own 1Q26 factcard as of 31 Mar 2026; gross 38.77%; 3-yr net 19.78%; since inception (1/1/2023) net 21.32%; index 28.72%",
+      "currency": "USD (native)",
+      "source": "https://www.pgim.com/us/en"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://www.pgim.com/content/dam/pgim/us/en/pgim-center/active/graphical-elements/logos/pgim-dark-new.svg",
     "imageSource": "https://www.pgim.com/us/en",
     "imageStatus": "pending"
@@ -1798,8 +1918,14 @@
     "lettersUrl": "https://primevalue.com.au/wp-content/uploads/2026/08/Microcaps-Fund-04-Aug.pdf",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr (factsheet Aug 2026; as-of not printed)",
+      "value": "-0.6% in AUD terms (USD-terms pending)",
+      "basis": "Net total return, own factsheet uploaded Aug 2026 (FSC standards); strategy 8.0% p.a. since inception vs S&P/ASX Small Industrials Accum",
+      "currency": "AUD (USD-terms pending: factsheet as-of date not printed)",
+      "source": "https://primevalue.com.au/wp-content/uploads/2026/08/Microcaps-Fund-04-Aug.pdf"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://primevalue.com.au/wp-content/uploads/2019/08/white_logo.png",
     "imageSource": "https://primevalue.com.au/",
     "imageStatus": "pending"
@@ -1984,8 +2110,14 @@
     "lettersUrl": "https://www.royceinvest.com/pdf/factsheets/rcm-isifs.pdf",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-06-30",
+      "value": "67.58% in USD terms",
+      "basis": "Average annual total return, own 2Q26 factsheet through 30 Jun 2026 (Investment Class); YTD 44.27% not annualized; Russell Microcap 1-yr 58.55%",
+      "currency": "USD (native)",
+      "source": "https://www.royceinvest.com/pdf/factsheets/rcm-isifs.pdf"
+    },
+    "returnsStatus": "sourced",
     "imageStatus": "pending"
   },
   {
@@ -2022,8 +2154,14 @@
     "lettersUrl": "https://www.royceinvest.com/pdf/factsheets/rmt-cefs.pdf",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-06-30",
+      "value": "70.39% in USD terms",
+      "basis": "Average annual total return, NAV basis, own 2Q26 factsheet through 30 Jun 2026; YTD 46.65% not annualized; Russell Microcap 1-yr 58.55%",
+      "currency": "USD (native)",
+      "source": "https://www.royceinvest.com/pdf/factsheets/rmt-cefs.pdf"
+    },
+    "returnsStatus": "sourced",
     "imageStatus": "pending"
   },
   {
@@ -2083,8 +2221,14 @@
     "lettersUrl": "https://www.sbiokasan-am.co.jp/data/fund_pdf/monthly/m553384_20260930.pdf",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-09-30",
+      "value": "37.52% in JPY terms (USD-terms 29.6% derived)",
+      "basis": "Total return (distributions reinvested), own monthly report as of 30 Sep 2026; since inception (Mar 2025) cum 64.97%; reference index 1yr 33.17%",
+      "currency": "JPY (USD-terms derived: JPY/USD 0.00676@2025-09-30 to 0.00637@2026-09-30, ECB/frankfurter)",
+      "source": "https://www.sbiokasan-am.co.jp/data/fund_pdf/monthly/m553384_20260930.pdf"
+    },
+    "returnsStatus": "sourced",
     "imageStatus": "pending"
   },
   {
@@ -2121,8 +2265,14 @@
     "lettersUrl": "https://www.sparx.co.jp/mutual/prm.html",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-09-30",
+      "value": "18.8% in JPY terms (USD-terms 11.9% derived)",
+      "basis": "Total return, own monthly report as of 30 Sep 2026; 3-yr cum 43.0%; since inception (Sep 2015) cum 312.6%; reference index 25.9%",
+      "currency": "JPY (USD-terms derived: JPY/USD 0.00676@2025-09-30 to 0.00637@2026-09-30, ECB/frankfurter)",
+      "source": "https://www.sparx.co.jp/mutual/prm.html"
+    },
+    "returnsStatus": "sourced",
     "imageStatus": "pending"
   },
   {
@@ -2204,8 +2354,14 @@
     "lettersUrl": "https://internetbank.swedbank.se/ConditionsEarchive/download?bankid=1111&id=WEBDOC-PRODE118108265",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1yr to 2026-09-30",
+      "value": "1.11%",
+      "basis": "total return after fees, in SEK terms; USD-terms (derived from ECB ref FX): -4.6% (USD/SEK 9.417 2025-09-30 to 9.9789 2026-09-30)",
+      "currency": "SEK; USD-terms derived from ECB ref FX (rates+dates in col S)",
+      "source": "https://internetbank.swedbank.se/ConditionsEarchive/download?bankid=1111&id=WEBDOC-PRODE118108265"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://www.swedbankrobur.se/content/dam/global/brand/logotypes/swedbankroburse-logo-default.svg",
     "imageSource": "https://www.swedbankrobur.se/",
     "imageStatus": "pending"
@@ -2359,8 +2515,14 @@
     "lettersUrl": "https://www.ubs.com/au/en/assetmanagement/funds/all-funds-factsheets/_jcr_content/root/contentarea/mainpar/toplevelgrid_84289862/col_1/linklistreimagined/link_2110862034_copy_550426325.279184644.file/PS9jb250ZW50L2RhbS9hc3NldHMvYXNzZXQtbWFuYWdlbWVudC1yZWltYWdpbmVkL3N0YXRpYy9hdXN0cmFsaWEvZmFjdHNoZWV0cy91YnMtbWljcm9jYXAucGRm/ubs-microcap.pdf",
     "socials": [],
     "dateAdded": "2026-10-20",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1 yr to 2026-08-31",
+      "value": "14.23% in AUD terms (USD-terms 25.4% derived)",
+      "basis": "Net total return, own factsheet as at 31 Aug 2026; since inception 14.05% p.a. vs S&P/ASX Small Ordinaries Accum 6.85% p.a.",
+      "currency": "AUD (USD-terms derived: AUD/USD 0.65256@2025-08-29 to 0.7162@2026-08-31, ECB/frankfurter)",
+      "source": "https://www.ubs.com/au/en/assetmanagement/funds/all-funds-factsheets/_jcr_content/root/contentarea/mainpar/toplevelgrid_84289862/col_1/linklistreimagined/link_2110862034_copy_550426325.279184644.file/PS9jb250ZW50L2RhbS9hc3NldHMvYXNzZXQtbWFuYWdlbWVudC1yZWltYWdpbmVkL3N0YXRpYy9hdXN0cmFsaWEvZmFjdHNoZWV0cy91YnMtbWljcm9jYXAucGRm/ubs-microcap.pdf"
+    },
+    "returnsStatus": "sourced",
     "imageSource": "https://www.ubs.com/au/en/assetmanagement/funds.html",
     "imageStatus": "pending"
   },
@@ -2375,8 +2537,14 @@
     "lettersUrl": "https://www.urbanacorp.com/net-asset-reports/",
     "socials": [],
     "dateAdded": "2026-10-19",
-    "returns": null,
-    "returnsStatus": "pending",
+    "returns": {
+      "period": "1yr to 2026-10-09",
+      "value": "17.25%",
+      "basis": "NAV per share change (after tax), before dividends - derived from own weekly NAV reports (CAD 12.35 @2025-10-10 to CAD 14.48 @2026-10-09), in CAD terms",
+      "currency": "CAD; USD-terms 1yr 15.54% (derived, ECB ref CAD/USD 0.71328 @2025-10-10 to 0.70292 @2026-10-09)",
+      "source": "https://www.urbanacorp.com/net-asset-reports/"
+    },
+    "returnsStatus": "sourced",
     "logoUrl": "https://www.urbanacorp.com/ndgcnt/themes/ndg_s/assets/img/Urbana-Logo.png",
     "imageSource": "https://www.urbanacorp.com/",
     "imageStatus": "pending"
@@ -2473,4 +2641,4 @@
     "imageSource": "https://wasatchglobal.com/",
     "imageStatus": "pending"
   }
-]
+      ]
