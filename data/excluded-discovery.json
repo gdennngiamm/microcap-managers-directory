@@ -1,12 +1,13 @@
 {
   "note": "Discovery rows marked Duplicate in the sheet (col L). Matched by manager string and hidden from the site even if a re-import brings them back.",
-  "updated": "2026-10-20",
+  "updated": "2026-10-23",
   "managers": [
     "Kennedy Capital Management",
     "Wasatch Global Investors",
     "Spheria Asset Management (Australian Microcap Fund)",
     "Rivemont Investments (Rivemont MicroCap Fund)",
     "Liontrust (UK Micro Cap Fund, I Acc GBP)",
-    "Perpetual (Pure Microcap Fund)"
+    "Perpetual (Pure Microcap Fund)",
+    "Marlborough (IFSL Marlborough UK Micro-Cap Growth, P Acc)"
   ]
 }
